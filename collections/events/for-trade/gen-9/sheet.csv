@@ -1,49 +1,70 @@
-#,Species,Form,Event,Gender,Shiny,Ball,Origin Mark,Ability,Nature,OT,TID,Level,Language,Date Met,Touched?,Source,Disclosure,Proof,Proof ID,Location,Box,Notes,R3
-0025,Pikachu,,gen9-flychu,male,FALSE,normal,paldea,Static,Bashful,Matt,533239,5,ENG,2023/02/24,FALSE,Self-redeemed,,Video,23022402,"Scarlet (Console 1) Profile 2",,,Pikachu | Matt | 533239 | Self-redeemed | Video |  | 
-0025,Pikachu,,gen9-flychu,male,FALSE,normal,paldea,Static,Lonely,Matt,615964,5,ENG,2023/02/24,FALSE,Self-redeemed,,Video,23022403,"Scarlet (Console 1) Profile 3",,,Pikachu | Matt | 615964 | Self-redeemed | Video |  | 
-0025,Pikachu,,gen9-flychu,male,FALSE,normal,paldea,Static,Calm,Matt,364892,5,ENG,2023/02/24,FALSE,Self-redeemed,,Video,23022404,"Scarlet (Console 1) Profile 4",,,Pikachu | Matt | 364892 | Self-redeemed | Video |  | 
-0025,Pikachu,,gen9-flychu,male,FALSE,normal,paldea,Static,Quirky,Matt,385336,5,ENG,2023/02/26,FALSE,Self-redeemed,,Video,23022604,"Scarlet (Console 1) Profile 5",,,Pikachu | Matt | 385336 | Self-redeemed | Video |  | 
-0025,Pikachu,,gen9-flychu,male,FALSE,normal,paldea,Static,Mild,Matt,135222,5,ENG,2023/02/26,FALSE,Self-redeemed,,Video,23022605,"Scarlet (Console 1) Profile 6",,,Pikachu | Matt | 135222 | Self-redeemed | Video |  | 
-0025,Pikachu,,gen9-flychu,male,FALSE,normal,paldea,Static,Impish,Matt,581485,5,ENG,2023/02/26,FALSE,Self-redeemed,,Video,23022606,"Scarlet (Console 1) Profile 7",,,Pikachu | Matt | 581485 | Self-redeemed | Video |  | 
-0025,Pikachu,,gen9-flychu,female,FALSE,normal,paldea,Static,Calm,Matt,734608,5,ENG,2023/02/26,FALSE,Self-redeemed,,Video,23022607,"Scarlet (Console 1) Profile 8",,,Pikachu | Matt | 734608 | Self-redeemed | Video |  | 
-0025,Pikachu,,gen9-flychu,male,FALSE,normal,paldea,Static,Hasty,Matt,468436,5,ENG,2023/02/26,FALSE,Self-redeemed,,Video,23022608,"Violet (Console 1) Profile 1",,,Pikachu | Matt | 468436 | Self-redeemed | Video |  | 
-0025,Pikachu,,gen9-flychu,female,FALSE,normal,paldea,Static,Jolly,Matt,418743,5,ENG,2023/02/26,FALSE,Self-redeemed,,Video,23022609,"Violet (Console 1) Profile 2",,,Pikachu | Matt | 418743 | Self-redeemed | Video |  | 
-0025,Pikachu,,gen9-flychu,male,FALSE,normal,paldea,Static,Docile,Matt,222111,5,ENG,2023/02/26,FALSE,Self-redeemed,,Video,23022610,"Violet (Console 1) Profile 3",,,Pikachu | Matt | 222111 | Self-redeemed | Video |  | 
-0025,Pikachu,,gen9-flychu,male,FALSE,normal,paldea,Static,Jolly,Matt,767941,5,ENG,2023/02/26,FALSE,Self-redeemed,,Video,23022611,"Violet (Console 1) Profile 4",,,Pikachu | Matt | 767941 | Self-redeemed | Video |  | 
-0025,Pikachu,,gen9-flychu,male,FALSE,normal,paldea,Static,Brave,Matt,154011,5,JPN,2023/02/26,FALSE,Self-redeemed,,Video,23022612,"Violet (Console 1) Profile 5",,,Pikachu | Matt | 154011 | Self-redeemed | Video |  | 
-0025,Pikachu,,gen9-flychu,male,FALSE,normal,paldea,Static,Jolly,Matt,441614,5,JPN,2023/02/26,FALSE,Self-redeemed,,Video,23022613,"Violet (Console 1) Profile 6",,,Pikachu | Matt | 441614 | Self-redeemed | Video |  | 
-0025,Pikachu,,gen9-flychu,male,FALSE,normal,paldea,Static,Jolly,Matt,475448,5,KOR,2023/02/26,FALSE,Self-redeemed,,Video,23022614,"Violet (Console 1) Profile 7",,,Pikachu | Matt | 475448 | Self-redeemed | Video |  | 
-0025,Pikachu,,gen9-flychu,male,FALSE,normal,paldea,Static,Lonely,Matt,178578,5,KOR,2023/02/26,FALSE,Self-redeemed,,Video,23022615,"Violet (Console 1) Profile 8",,,Pikachu | Matt | 178578 | Self-redeemed | Video |  | 
-0934,Garganacl,,jiseok-garganacl,male,FALSE,cherish,paldea,Purifying Salt,Careful,Jiseok,230217,50,ENG,2023/02/16,FALSE,Self-redeemed,,Video,23021602,"Scarlet (Console 1) Profile 2",,,Garganacl | Jiseok | 230217 | Self-redeemed | Video |  | 
-0934,Garganacl,,jiseok-garganacl,male,FALSE,cherish,paldea,Purifying Salt,Careful,Jiseok,230217,50,ENG,2023/02/16,FALSE,Self-redeemed,,Video,23021603,"Scarlet (Console 1) Profile 3",,,Garganacl | Jiseok | 230217 | Self-redeemed | Video |  | 
-0934,Garganacl,,jiseok-garganacl,male,FALSE,cherish,paldea,Purifying Salt,Careful,Jiseok,230217,50,ENG,2023/02/16,FALSE,Self-redeemed,,Video,23021604,"Scarlet (Console 1) Profile 4",,,Garganacl | Jiseok | 230217 | Self-redeemed | Video |  | 
-0934,Garganacl,,jiseok-garganacl,male,FALSE,cherish,paldea,Purifying Salt,Careful,Jiseok,230217,50,ENG,2023/02/16,FALSE,Self-redeemed,,Video,23021605,"Scarlet (Console 1) Profile 5",,,Garganacl | Jiseok | 230217 | Self-redeemed | Video |  | 
-0934,Garganacl,,jiseok-garganacl,male,FALSE,cherish,paldea,Purifying Salt,Careful,Jiseok,230217,50,ENG,2023/02/16,FALSE,Self-redeemed,,Video,23021606,"Scarlet (Console 1) Profile 6",,,Garganacl | Jiseok | 230217 | Self-redeemed | Video |  | 
-0934,Garganacl,,jiseok-garganacl,male,FALSE,cherish,paldea,Purifying Salt,Careful,Jiseok,230217,50,ENG,2023/02/16,FALSE,Self-redeemed,,Video,23021607,"Scarlet (Console 1) Profile 7",,,Garganacl | Jiseok | 230217 | Self-redeemed | Video |  | 
-0934,Garganacl,,jiseok-garganacl,male,FALSE,cherish,paldea,Purifying Salt,Careful,Jiseok,230217,50,ENG,2023/02/16,FALSE,Self-redeemed,,Video,23021608,"Scarlet (Console 1) Profile 8",,,Garganacl | Jiseok | 230217 | Self-redeemed | Video |  | 
-0934,Garganacl,,jiseok-garganacl,male,FALSE,cherish,paldea,Purifying Salt,Careful,Jiseok,230217,50,ENG,2023/02/18,FALSE,Self-redeemed,,Video,23021801,"Violet (Console 1) Profile 1",,,Garganacl | Jiseok | 230217 | Self-redeemed | Video |  | 
-0934,Garganacl,,jiseok-garganacl,male,FALSE,cherish,paldea,Purifying Salt,Careful,Jiseok,230217,50,ENG,2023/02/18,FALSE,Self-redeemed,,Video,23021802,"Violet (Console 1) Profile 2",,,Garganacl | Jiseok | 230217 | Self-redeemed | Video |  | 
-0934,Garganacl,,jiseok-garganacl,male,FALSE,cherish,paldea,Purifying Salt,Careful,Jiseok,230217,50,ENG,2023/02/18,FALSE,Self-redeemed,,Video,23021803,"Violet (Console 1) Profile 3",,,Garganacl | Jiseok | 230217 | Self-redeemed | Video |  | 
-0934,Garganacl,,jiseok-garganacl,male,FALSE,cherish,paldea,Purifying Salt,Careful,Jiseok,230217,50,ENG,2023/02/18,FALSE,Self-redeemed,,Video,23021804,"Violet (Console 1) Profile 4",,,Garganacl | Jiseok | 230217 | Self-redeemed | Video |  | 
-0934,Garganacl,,jiseok-garganacl,male,FALSE,cherish,paldea,Purifying Salt,Careful,Jiseok,230217,50,ENG,2023/02/18,FALSE,Self-redeemed,,Video,23021805,"Violet (Console 1) Profile 5",,JPN save,Garganacl | Jiseok | 230217 | Self-redeemed | Video |  | 
-0934,Garganacl,,jiseok-garganacl,male,FALSE,cherish,paldea,Purifying Salt,Careful,Jiseok,230217,50,ENG,2023/02/19,FALSE,Self-redeemed,,Video,23021901,"Violet (Console 1) Profile 6",,JPN save,Garganacl | Jiseok | 230217 | Self-redeemed | Video |  | 
-0934,Garganacl,,jiseok-garganacl,male,FALSE,cherish,paldea,Purifying Salt,Careful,Jiseok,230217,50,ENG,2023/02/19,FALSE,Self-redeemed,,Video,23021902,"Violet (Console 1) Profile 7",,KOR save,Garganacl | Jiseok | 230217 | Self-redeemed | Video |  | 
-0934,Garganacl,,jiseok-garganacl,male,FALSE,cherish,paldea,Purifying Salt,Careful,Jiseok,230217,50,ENG,2023/02/19,FALSE,Self-redeemed,,Video,23021903,"Violet (Console 1) Profile 8",,KOR save,Garganacl | Jiseok | 230217 | Self-redeemed | Video |  | 
-0934,Garganacl,,jiseok-garganacl,male,FALSE,cherish,paldea,Purifying Salt,Careful,Jiseok,230217,50,ENG,2023/02/19,FALSE,Self-redeemed,,Video,23021904,"Violet (Console 2) Profile 2",,,Garganacl | Jiseok | 230217 | Self-redeemed | Video |  | 
-0964,Palafin,,gavin-palafin,female,FALSE,cherish,paldea,Zero to Hero,Adamant,Gavin,230414,50,ENG,2023/04/14,FALSE,Self-redeemed,,Video,23041402,"Scarlet (Console 1) Profile 2",,,Palafin | Gavin | 230414 | Self-redeemed | Video |  | 
-0964,Palafin,,gavin-palafin,female,FALSE,cherish,paldea,Zero to Hero,Adamant,Gavin,230414,50,ENG,2023/04/14,FALSE,Self-redeemed,,Video,23041403,"Scarlet (Console 1) Profile 3",,,Palafin | Gavin | 230414 | Self-redeemed | Video |  | 
-0964,Palafin,,gavin-palafin,female,FALSE,cherish,paldea,Zero to Hero,Adamant,Gavin,230414,50,ENG,2023/04/14,FALSE,Self-redeemed,,Video,23041404,"Scarlet (Console 1) Profile 4",,,Palafin | Gavin | 230414 | Self-redeemed | Video |  | 
-0964,Palafin,,gavin-palafin,female,FALSE,cherish,paldea,Zero to Hero,Adamant,Gavin,230414,50,ENG,2023/04/14,FALSE,Self-redeemed,,Video,23041405,"Scarlet (Console 1) Profile 5",,,Palafin | Gavin | 230414 | Self-redeemed | Video |  | 
-0964,Palafin,,gavin-palafin,female,FALSE,cherish,paldea,Zero to Hero,Adamant,Gavin,230414,50,ENG,2023/04/14,FALSE,Self-redeemed,,Video,23041406,"Scarlet (Console 1) Profile 6",,,Palafin | Gavin | 230414 | Self-redeemed | Video |  | 
-0964,Palafin,,gavin-palafin,female,FALSE,cherish,paldea,Zero to Hero,Adamant,Gavin,230414,50,ENG,2023/04/14,FALSE,Self-redeemed,,Video,23041407,"Scarlet (Console 1) Profile 7",,,Palafin | Gavin | 230414 | Self-redeemed | Video |  | 
-0964,Palafin,,gavin-palafin,female,FALSE,cherish,paldea,Zero to Hero,Adamant,Gavin,230414,50,ENG,2023/04/14,FALSE,Self-redeemed,,Video,23041408,"Scarlet (Console 1) Profile 8",,,Palafin | Gavin | 230414 | Self-redeemed | Video |  | 
-0964,Palafin,,gavin-palafin,female,FALSE,cherish,paldea,Zero to Hero,Adamant,Gavin,230414,50,ENG,2023/04/15,FALSE,Self-redeemed,,Video,23041501,"Violet (Console 1) Profile 1",,,Palafin | Gavin | 230414 | Self-redeemed | Video |  | 
-0964,Palafin,,gavin-palafin,female,FALSE,cherish,paldea,Zero to Hero,Adamant,Gavin,230414,50,ENG,2023/04/15,FALSE,Self-redeemed,,Video,23041502,"Violet (Console 1) Profile 2",,,Palafin | Gavin | 230414 | Self-redeemed | Video |  | 
-0964,Palafin,,gavin-palafin,female,FALSE,cherish,paldea,Zero to Hero,Adamant,Gavin,230414,50,ENG,2023/04/15,FALSE,Self-redeemed,,Video,23041503,"Violet (Console 1) Profile 3",,,Palafin | Gavin | 230414 | Self-redeemed | Video |  | 
-0964,Palafin,,gavin-palafin,female,FALSE,cherish,paldea,Zero to Hero,Adamant,Gavin,230414,50,ENG,2023/04/15,FALSE,Self-redeemed,,Video,23041504,"Violet (Console 1) Profile 4",,,Palafin | Gavin | 230414 | Self-redeemed | Video |  | 
-0964,Palafin,,gavin-palafin,female,FALSE,cherish,paldea,Zero to Hero,Adamant,Gavin,230414,50,ENG,2023/04/15,FALSE,Self-redeemed,,Video,23041505,"Violet (Console 1) Profile 5",,JPN Save,Palafin | Gavin | 230414 | Self-redeemed | Video |  | 
-0964,Palafin,,gavin-palafin,female,FALSE,cherish,paldea,Zero to Hero,Adamant,Gavin,230414,50,ENG,2023/04/15,FALSE,Self-redeemed,,Video,23041506,"Violet (Console 1) Profile 6",,JPN Save,Palafin | Gavin | 230414 | Self-redeemed | Video |  | 
-0964,Palafin,,gavin-palafin,female,FALSE,cherish,paldea,Zero to Hero,Adamant,Gavin,230414,50,ENG,2023/04/15,FALSE,Self-redeemed,,Video,23041507,"Violet (Console 1) Profile 7",,KOR Save,Palafin | Gavin | 230414 | Self-redeemed | Video |  | 
-0964,Palafin,,gavin-palafin,female,FALSE,cherish,paldea,Zero to Hero,Adamant,Gavin,230414,50,ENG,2023/04/15,FALSE,Self-redeemed,,Video,23041508,"Violet (Console 1) Profile 8",,KOR Save,Palafin | Gavin | 230414 | Self-redeemed | Video |  | 
-0964,Palafin,,gavin-palafin,female,FALSE,cherish,paldea,Zero to Hero,Adamant,Gavin,230414,50,ENG,2023/04/15,FALSE,Self-redeemed,,Video,23041509,"Violet (Console 2) Profile 2",,,Palafin | Gavin | 230414 | Self-redeemed | Video |  | 
-0964,Palafin,,gavin-palafin,female,FALSE,cherish,paldea,Zero to Hero,Adamant,Gavin,230414,50,ENG,2023/04/17,FALSE,Self-redeemed,,Video,23041701,"Violet (Console 2) Profile 4",,,Palafin | Gavin | 230414 | Self-redeemed | Video |  | 
+#,Species,Form,Event,Gender,Shiny,Ball,Origin Mark,Ability,Nature,OT,TID,Level,Language,Date Met,Touched?,Source,Disclosure,Proof,Proof ID,Location,Box,Notes,Marking
+0025,Pikachu,,gen9-flychu,male,FALSE,normal,paldea,Static,Bashful,Matt,533239,5,ENG,2023/02/24,FALSE,Self-redeemed,,Video,23022402,HOME,G9[0] R1C2,,000010
+0025,Pikachu,,gen9-flychu,male,FALSE,normal,paldea,Static,Lonely,Matt,615964,5,ENG,2023/02/24,FALSE,Self-redeemed,,Video,23022403,HOME,G9[0] R1C3,,000011
+0025,Pikachu,,gen9-flychu,male,FALSE,normal,paldea,Static,Calm,Matt,364892,5,ENG,2023/02/24,FALSE,Self-redeemed,,Video,23022404,HOME,G9[0] R1C4,,000100
+0025,Pikachu,,gen9-flychu,male,FALSE,normal,paldea,Static,Quirky,Matt,385336,5,ENG,2023/02/26,FALSE,Self-redeemed,,Video,23022604,HOME,G9[0] R1C5,,000001
+0025,Pikachu,,gen9-flychu,male,FALSE,normal,paldea,Static,Mild,Matt,135222,5,ENG,2023/02/26,FALSE,Self-redeemed,,Video,23022605,HOME,G9[0] R1C6,,000010
+0025,Pikachu,,gen9-flychu,male,FALSE,normal,paldea,Static,Impish,Matt,581485,5,ENG,2023/02/26,FALSE,Self-redeemed,,Video,23022606,HOME,G9[0] R2C1,,000011
+0025,Pikachu,,gen9-flychu,female,FALSE,normal,paldea,Static,Calm,Matt,734608,5,ENG,2023/02/26,FALSE,Self-redeemed,,Video,23022607,HOME,G9[0] R2C2,,000100
+0025,Pikachu,,gen9-flychu,male,FALSE,normal,paldea,Static,Hasty,Matt,468436,5,ENG,2023/02/26,FALSE,Self-redeemed,,Video,23022608,HOME,G9[0] R2C3,,000101
+0025,Pikachu,,gen9-flychu,female,FALSE,normal,paldea,Static,Jolly,Matt,418743,5,ENG,2023/02/26,FALSE,Self-redeemed,,Video,23022609,HOME,G9[0] R2C4,,000110
+0025,Pikachu,,gen9-flychu,male,FALSE,normal,paldea,Static,Docile,Matt,222111,5,ENG,2023/02/26,FALSE,Self-redeemed,,Video,23022610,HOME,G9[0] R2C5,,000111
+0025,Pikachu,,gen9-flychu,male,FALSE,normal,paldea,Static,Jolly,Matt,767941,5,ENG,2023/02/26,FALSE,Self-redeemed,,Video,23022611,HOME,G9[0] R2C6,,001000
+0025,Pikachu,,gen9-flychu,male,FALSE,normal,paldea,Static,Brave,Matt,154011,5,JPN,2023/02/26,FALSE,Self-redeemed,,Video,23022612,HOME,G9[0] R3C1,,001001
+0025,Pikachu,,gen9-flychu,male,FALSE,normal,paldea,Static,Jolly,Matt,441614,5,JPN,2023/02/26,FALSE,Self-redeemed,,Video,23022613,HOME,G9[0] R3C2,,001010
+0025,Pikachu,,gen9-flychu,male,FALSE,normal,paldea,Static,Jolly,Matt,475448,5,KOR,2023/02/26,FALSE,Self-redeemed,,Video,23022614,HOME,G9[0] R3C3,,001011
+0025,Pikachu,,gen9-flychu,male,FALSE,normal,paldea,Static,Lonely,Matt,178578,5,KOR,2023/02/26,FALSE,Self-redeemed,,Video,23022615,HOME,G9[0] R3C4,,001100
+0934,Garganacl,,jiseok-garganacl,male,FALSE,cherish,paldea,Purifying Salt,Careful,Jiseok,230217,50,ENG,2023/02/16,FALSE,Self-redeemed,,Video,23021602,HOME,G9[0] R3C6,,000010
+0934,Garganacl,,jiseok-garganacl,male,FALSE,cherish,paldea,Purifying Salt,Careful,Jiseok,230217,50,ENG,2023/02/16,FALSE,Self-redeemed,,Video,23021603,HOME,G9[0] R4C1,,000011
+0934,Garganacl,,jiseok-garganacl,male,FALSE,cherish,paldea,Purifying Salt,Careful,Jiseok,230217,50,ENG,2023/02/16,FALSE,Self-redeemed,,Video,23021604,HOME,G9[0] R4C2,,000100
+0934,Garganacl,,jiseok-garganacl,male,FALSE,cherish,paldea,Purifying Salt,Careful,Jiseok,230217,50,ENG,2023/02/16,FALSE,Self-redeemed,,Video,23021605,HOME,G9[0] R4C3,,000101
+0934,Garganacl,,jiseok-garganacl,male,FALSE,cherish,paldea,Purifying Salt,Careful,Jiseok,230217,50,ENG,2023/02/16,FALSE,Self-redeemed,,Video,23021606,HOME,G9[0] R4C4,,000110
+0934,Garganacl,,jiseok-garganacl,male,FALSE,cherish,paldea,Purifying Salt,Careful,Jiseok,230217,50,ENG,2023/02/16,FALSE,Self-redeemed,,Video,23021607,HOME,G9[0] R4C5,,000111
+0934,Garganacl,,jiseok-garganacl,male,FALSE,cherish,paldea,Purifying Salt,Careful,Jiseok,230217,50,ENG,2023/02/16,FALSE,Self-redeemed,,Video,23021608,HOME,G9[0] R4C6,,001000
+0934,Garganacl,,jiseok-garganacl,male,FALSE,cherish,paldea,Purifying Salt,Careful,Jiseok,230217,50,ENG,2023/02/18,FALSE,Self-redeemed,,Video,23021801,HOME,G9[0] R5C1,,000001
+0934,Garganacl,,jiseok-garganacl,male,FALSE,cherish,paldea,Purifying Salt,Careful,Jiseok,230217,50,ENG,2023/02/18,FALSE,Self-redeemed,,Video,23021802,HOME,G9[0] R5C2,,000010
+0934,Garganacl,,jiseok-garganacl,male,FALSE,cherish,paldea,Purifying Salt,Careful,Jiseok,230217,50,ENG,2023/02/18,FALSE,Self-redeemed,,Video,23021803,HOME,G9[0] R5C3,,000011
+0934,Garganacl,,jiseok-garganacl,male,FALSE,cherish,paldea,Purifying Salt,Careful,Jiseok,230217,50,ENG,2023/02/18,FALSE,Self-redeemed,,Video,23021804,HOME,G9[0] R5C4,,000100
+0934,Garganacl,,jiseok-garganacl,male,FALSE,cherish,paldea,Purifying Salt,Careful,Jiseok,230217,50,ENG,2023/02/18,FALSE,Self-redeemed,,Video,23021805,HOME,G9[0] R5C5,JPN save,000101
+0934,Garganacl,,jiseok-garganacl,male,FALSE,cherish,paldea,Purifying Salt,Careful,Jiseok,230217,50,ENG,2023/02/19,FALSE,Self-redeemed,,Video,23021901,HOME,G9[0] R5C6,JPN save,000001
+0934,Garganacl,,jiseok-garganacl,male,FALSE,cherish,paldea,Purifying Salt,Careful,Jiseok,230217,50,ENG,2023/02/19,FALSE,Self-redeemed,,Video,23021902,HOME,G9[1] R1C1,KOR save,000010
+0934,Garganacl,,jiseok-garganacl,male,FALSE,cherish,paldea,Purifying Salt,Careful,Jiseok,230217,50,ENG,2023/02/19,FALSE,Self-redeemed,,Video,23021903,HOME,G9[1] R1C2,KOR save,000011
+0934,Garganacl,,jiseok-garganacl,male,FALSE,cherish,paldea,Purifying Salt,Careful,Jiseok,230217,50,ENG,2023/02/19,FALSE,Self-redeemed,,Video,23021904,HOME,G9[1] R1C3,,000100
+0964,Palafin,,gavin-palafin,female,FALSE,cherish,paldea,Zero to Hero,Adamant,Gavin,230414,50,ENG,2023/04/14,FALSE,Self-redeemed,,Video,23041402,HOME,G9[1] R1C5,,000010
+0964,Palafin,,gavin-palafin,female,FALSE,cherish,paldea,Zero to Hero,Adamant,Gavin,230414,50,ENG,2023/04/14,FALSE,Self-redeemed,,Video,23041403,HOME,G9[1] R1C6,,000011
+0964,Palafin,,gavin-palafin,female,FALSE,cherish,paldea,Zero to Hero,Adamant,Gavin,230414,50,ENG,2023/04/14,FALSE,Self-redeemed,,Video,23041404,HOME,G9[1] R2C1,,000100
+0964,Palafin,,gavin-palafin,female,FALSE,cherish,paldea,Zero to Hero,Adamant,Gavin,230414,50,ENG,2023/04/14,FALSE,Self-redeemed,,Video,23041405,HOME,G9[1] R2C2,,000101
+0964,Palafin,,gavin-palafin,female,FALSE,cherish,paldea,Zero to Hero,Adamant,Gavin,230414,50,ENG,2023/04/14,FALSE,Self-redeemed,,Video,23041406,HOME,G9[1] R2C3,,000110
+0964,Palafin,,gavin-palafin,female,FALSE,cherish,paldea,Zero to Hero,Adamant,Gavin,230414,50,ENG,2023/04/14,FALSE,Self-redeemed,,Video,23041407,HOME,G9[1] R2C4,,000111
+0964,Palafin,,gavin-palafin,female,FALSE,cherish,paldea,Zero to Hero,Adamant,Gavin,230414,50,ENG,2023/04/14,FALSE,Self-redeemed,,Video,23041408,HOME,G9[1] R2C5,,001000
+0964,Palafin,,gavin-palafin,female,FALSE,cherish,paldea,Zero to Hero,Adamant,Gavin,230414,50,ENG,2023/04/15,FALSE,Self-redeemed,,Video,23041501,HOME,G9[1] R2C6,,000001
+0964,Palafin,,gavin-palafin,female,FALSE,cherish,paldea,Zero to Hero,Adamant,Gavin,230414,50,ENG,2023/04/15,FALSE,Self-redeemed,,Video,23041502,HOME,G9[1] R3C1,,000010
+0964,Palafin,,gavin-palafin,female,FALSE,cherish,paldea,Zero to Hero,Adamant,Gavin,230414,50,ENG,2023/04/15,FALSE,Self-redeemed,,Video,23041503,HOME,G9[1] R3C2,,000011
+0964,Palafin,,gavin-palafin,female,FALSE,cherish,paldea,Zero to Hero,Adamant,Gavin,230414,50,ENG,2023/04/15,FALSE,Self-redeemed,,Video,23041504,HOME,G9[1] R3C3,,000100
+0964,Palafin,,gavin-palafin,female,FALSE,cherish,paldea,Zero to Hero,Adamant,Gavin,230414,50,ENG,2023/04/15,FALSE,Self-redeemed,,Video,23041505,HOME,G9[1] R3C4,JPN save,000101
+0964,Palafin,,gavin-palafin,female,FALSE,cherish,paldea,Zero to Hero,Adamant,Gavin,230414,50,ENG,2023/04/15,FALSE,Self-redeemed,,Video,23041506,HOME,G9[1] R3C5,JPN save,000110
+0964,Palafin,,gavin-palafin,female,FALSE,cherish,paldea,Zero to Hero,Adamant,Gavin,230414,50,ENG,2023/04/15,FALSE,Self-redeemed,,Video,23041507,HOME,G9[1] R3C6,KOR save,000111
+0964,Palafin,,gavin-palafin,female,FALSE,cherish,paldea,Zero to Hero,Adamant,Gavin,230414,50,ENG,2023/04/15,FALSE,Self-redeemed,,Video,23041508,HOME,G9[1] R4C1,KOR save,001000
+0964,Palafin,,gavin-palafin,female,FALSE,cherish,paldea,Zero to Hero,Adamant,Gavin,230414,50,ENG,2023/04/15,FALSE,Self-redeemed,,Video,23041509,HOME,G9[1] R4C2,,001001
+0964,Palafin,,gavin-palafin,female,FALSE,cherish,paldea,Zero to Hero,Adamant,Gavin,230414,50,ENG,2023/04/17,FALSE,Self-redeemed,,Video,23041701,HOME,G9[1] R4C3,,000001
+0437,Bronzong,,yasuharu-bronzong,,FALSE,cherish,paldea,Levitate,Relaxed,そらみつ,230610,50,JPN,2023/06/09,FALSE,Self-redeemed,,Video,TBD,HOME,G9[1] R4C5,,000010
+0437,Bronzong,,yasuharu-bronzong,,FALSE,cherish,paldea,Levitate,Relaxed,そらみつ,230610,50,JPN,2023/06/09,FALSE,Self-redeemed,,Video,TBD,HOME,G9[1] R4C6,,000011
+0437,Bronzong,,yasuharu-bronzong,,FALSE,cherish,paldea,Levitate,Relaxed,そらみつ,230610,50,JPN,2023/06/09,FALSE,Self-redeemed,,Video,TBD,HOME,G9[1] R5C1,,000100
+0437,Bronzong,,yasuharu-bronzong,,FALSE,cherish,paldea,Levitate,Relaxed,そらみつ,230610,50,JPN,2023/06/09,FALSE,Self-redeemed,,Video,TBD,HOME,G9[1] R5C2,,000101
+0437,Bronzong,,yasuharu-bronzong,,FALSE,cherish,paldea,Levitate,Relaxed,そらみつ,230610,50,JPN,2023/06/09,FALSE,Self-redeemed,,Video,TBD,HOME,G9[1] R5C3,,000110
+0437,Bronzong,,yasuharu-bronzong,,FALSE,cherish,paldea,Levitate,Relaxed,そらみつ,230610,50,JPN,2023/06/09,FALSE,Self-redeemed,,Video,TBD,HOME,G9[1] R5C4,,000111
+0437,Bronzong,,yasuharu-bronzong,,FALSE,cherish,paldea,Levitate,Relaxed,そらみつ,230610,50,JPN,2023/06/09,FALSE,Self-redeemed,,Video,TBD,HOME,G9[1] R5C5,,001000
+0437,Bronzong,,yasuharu-bronzong,,FALSE,cherish,paldea,Levitate,Relaxed,そらみつ,230610,50,JPN,2023/06/10,FALSE,Self-redeemed,,Video,TBD,HOME,G9[1] R5C6,,000001
+0437,Bronzong,,yasuharu-bronzong,,FALSE,cherish,paldea,Levitate,Relaxed,そらみつ,230610,50,JPN,2023/06/10,FALSE,Self-redeemed,,Video,TBD,HOME,G9[2] R1C1,,000010
+0437,Bronzong,,yasuharu-bronzong,,FALSE,cherish,paldea,Levitate,Relaxed,そらみつ,230610,50,JPN,2023/06/10,FALSE,Self-redeemed,,Video,TBD,HOME,G9[2] R1C2,,000011
+0437,Bronzong,,yasuharu-bronzong,,FALSE,cherish,paldea,Levitate,Relaxed,そらみつ,230610,50,JPN,2023/06/10,FALSE,Self-redeemed,,Video,TBD,HOME,G9[2] R1C3,,000100
+0437,Bronzong,,yasuharu-bronzong,,FALSE,cherish,paldea,Levitate,Relaxed,そらみつ,230610,50,JPN,2023/06/10,FALSE,Self-redeemed,,Video,TBD,HOME,G9[2] R1C4,JPN save,000101
+0437,Bronzong,,yasuharu-bronzong,,FALSE,cherish,paldea,Levitate,Relaxed,そらみつ,230610,50,JPN,2023/06/10,FALSE,Self-redeemed,,Video,TBD,HOME,G9[2] R1C5,JPN save,000110
+0437,Bronzong,,yasuharu-bronzong,,FALSE,cherish,paldea,Levitate,Relaxed,そらみつ,230610,50,JPN,2023/06/10,FALSE,Self-redeemed,,Video,TBD,HOME,G9[2] R1C6,KOR save,000111
+0437,Bronzong,,yasuharu-bronzong,,FALSE,cherish,paldea,Levitate,Relaxed,そらみつ,230610,50,JPN,2023/06/10,FALSE,Self-redeemed,,Video,TBD,HOME,G9[2] R2C1,KOR save,001000
+0437,Bronzong,,yasuharu-bronzong,,FALSE,cherish,paldea,Levitate,Relaxed,そらみつ,230610,50,JPN,2023/06/10,FALSE,Self-redeemed,,Video,TBD,HOME,G9[2] R2C2,,001001
+0437,Bronzong,,yasuharu-bronzong,,FALSE,cherish,paldea,Levitate,Relaxed,そらみつ,230610,50,JPN,2023/06/10,FALSE,Self-redeemed,,Video,TBD,HOME,G9[2] R2C3,,001010
+0437,Bronzong,,yasuharu-bronzong,,FALSE,cherish,paldea,Levitate,Relaxed,そらみつ,230610,50,JPN,2023/06/10,FALSE,Self-redeemed,,Video,TBD,HOME,G9[2] R2C4,,001011
+0437,Bronzong,,yasuharu-bronzong,,FALSE,cherish,paldea,Levitate,Relaxed,そらみつ,230610,50,JPN,2023/06/10,FALSE,Self-redeemed,,Video,TBD,HOME,G9[2] R2C5,,001100
+0437,Bronzong,,yasuharu-bronzong,,FALSE,cherish,paldea,Levitate,Relaxed,そらみつ,230610,50,JPN,2023/06/10,FALSE,Self-redeemed,,Video,TBD,HOME,G9[2] R2C6,,001101
+0437,Bronzong,,yasuharu-bronzong,,FALSE,cherish,paldea,Levitate,Relaxed,そらみつ,230610,50,JPN,2023/06/10,FALSE,Self-redeemed,,Video,TBD,HOME,G9[2] R3C1,ITA save,001110

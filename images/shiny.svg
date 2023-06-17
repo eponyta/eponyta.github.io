@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42" height="42" viewBox="0 0 42 42" xmlns="http://www.w3.org/2000/svg">
+    <path id="star-1" fill="#FF3360" fill-rule="evenodd" stroke="none" d="M 17 41 L 12.294922 29.705078 L 1 25 L 12.294922 20.294922 L 17 9 L 21.705078 20.294922 L 33 25 L 21.705078 29.705078 L 17 41 Z"/>
+    <path id="star-2" fill="#FF3360" fill-rule="evenodd" stroke="none" d="M 31 21 L 28.059326 13.940674 L 21 11 L 28.059326 8.059326 L 31 1 L 33.940674 8.059326 L 41 11 L 33.940674 13.940674 L 31 21 Z"/>
+</svg>

@@ -31,6 +31,14 @@ function open_event_pkmn_details(event, row)
             _event_close_dialog(dialog);
         }
     });
+
+    let moreButtons = dialog.querySelectorAll('select.btn-more');
+    for (var i = 0; i < moreButtons.length; i++) {
+        let selectElement = moreButtons[i];
+        selectElement.addEventListener('change', function(event) {
+            _perform_more_menu_action(event);
+        });
+    }
 }
 
 function close_event_pkmn_details(event) {
@@ -38,7 +46,7 @@ function close_event_pkmn_details(event) {
     _event_close_dialog(dialog);
 }
 
-function perform_more_menu_action(event) {
+function _perform_more_menu_action(event) {
     const selectedOptions = event.target.selectedOptions;
     if (selectedOptions.length == 0) {
         return;

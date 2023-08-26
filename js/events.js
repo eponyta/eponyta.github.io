@@ -41,13 +41,21 @@ function close_event_pkmn_details(event) {
 function _event_close_dialog(dialog) {
     dialog.classList.add("dismissed");
 
-    dialog.addEventListener("animationend", (event) => {
-        dialog.close();
-    });
-
-    dialog.addEventListener("animationcancel", (event) => {
-        dialog.close();
-    });
+    if (dialog.animate) {
+        dialog.getAnimations().forEach(animation => {
+            animation.finished.then(() => {
+                dialog.remove();
+            });
+        });
+    } else {
+        dialog.addEventListener("animationend", (event) => {
+            dialog.remove();
+        });
+    
+        dialog.addEventListener("animationcancel", (event) => {
+            dialog.remove();
+        });
+    }
 }
 
 function _event_populate_details_dialog(dialog, row) {

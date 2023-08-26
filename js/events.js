@@ -31,34 +31,11 @@ function open_event_pkmn_details(event, row)
             _event_close_dialog(dialog);
         }
     });
-
-    let moreButtons = dialog.querySelectorAll('select.btn-more');
-    for (var i = 0; i < moreButtons.length; i++) {
-        let selectElement = moreButtons[i];
-        selectElement.addEventListener('change', function(event) {
-            _perform_more_menu_action(event);
-        });
-    }
 }
 
 function close_event_pkmn_details(event) {
     let dialog = event.target.closest('dialog');
     _event_close_dialog(dialog);
-}
-
-function _perform_more_menu_action(event) {
-    const selectedOptions = event.target.selectedOptions;
-    if (selectedOptions.length == 0) {
-        return;
-    }
-
-    const option = selectedOptions[0];
-    if (option.value == "copy-r3") {
-        let dialog = event.target.closest('dialog');
-        _copy_r3_info(dialog);
-    }
-
-    event.target.value = '';
 }
 
 function _event_close_dialog(dialog) {
@@ -123,7 +100,8 @@ function _event_populate_details_dialog(dialog, row) {
     }
 }
 
-function _copy_r3_info(dialog) {
+function copy_event_r3_info(event) {
+    let dialog = event.target.closest('dialog');
     let jsonBytes = Uint8Array.from(atob(dialog.dataset['pkmn-info']), (m) => m.codePointAt(0));
     let decoder = new TextDecoder();
     let info = JSON.parse(decoder.decode(jsonBytes));

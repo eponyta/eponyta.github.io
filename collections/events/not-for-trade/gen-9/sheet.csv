@@ -9,7 +9,7 @@ ID,#,Species,Form,Event,Gender,Shiny,Ball,Origin Mark,Ability,Nature,OT,TID,Leve
 23073004,0172,Pichu,,michina-pichu,male,TRUE,cherish,paldea,Static,Jolly,미케나,230531,30,KOR,2023/07/30,FALSE,Self-redeemed,,Video,HOME,G9[4] R4C5,Proof has wrong count on note (3 instead of 4). Fixed mid-video,000100
 23061701,0423,Gastrodon,east,ptc-2023-gastrodon,male,FALSE,cherish,paldea,Storm Drain,Bold,정원석,230603,50,KOR,2023/06/17,FALSE,Self-redeemed,,Video,HOME,G9[2] R4C5,,000001
 23063005,0059,Arcanine,,naic-2023-arcanine,female,TRUE,cherish,paldea,Intimidate,Adamant,Paul,230630,50,ENG,2023/06/30,FALSE,Self-redeemed,,Video,HOME,G9[3] R4C6,,000001
-32073019,0006,Charizard,,dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,Matt,456206,50,ENG,2023/07/30,FALSE,Self-redeemed,,Video,HOME,G9[4] R5C4,,000001
+23073019,0006,Charizard,,dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,Matt,456206,50,ENG,2023/07/30,FALSE,Self-redeemed,,Video,HOME,G9[4] R5C4,,000001
 23073011,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023/07/30,FALSE,Self-redeemed,,Video,HOME,G9[4] R5C3,,000001
 23080901,0151,Mew,,my-own-mew,,FALSE,normal,paldea,Synchronize,Brave,Matt,456206,5,ENG,2023/08/09,FALSE,Self-redeemed,,Video,HOME,G9[5] R3C1,tera water,000001
-TBD,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/10,FALSE,Self-redeemed,,Video,HOME,G9[5] R4C3,,000001
+23081001,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/10,FALSE,Self-redeemed,,Video,HOME,G9[5] R4C3,,000001

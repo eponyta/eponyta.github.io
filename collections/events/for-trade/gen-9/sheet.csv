@@ -135,21 +135,21 @@ ID,#,Species,Form,Event,Gender,Shiny,Ball,Origin Mark,Ability,Nature,OT,TID,Leve
 23070206,0059,Arcanine,,naic-2023-arcanine,female,TRUE,cherish,paldea,Intimidate,Adamant,Paul,230630,50,ENG,2023/07/02,FALSE,Self-redeemed,,Video,HOME,G9[4] R3C2,JPN save,000110
 23070207,0059,Arcanine,,naic-2023-arcanine,female,TRUE,cherish,paldea,Intimidate,Adamant,Paul,230630,50,ENG,2023/07/02,FALSE,Self-redeemed,,Video,HOME,G9[4] R3C3,KOR save,000111
 23070208,0059,Arcanine,,naic-2023-arcanine,female,TRUE,cherish,paldea,Intimidate,Adamant,Paul,230630,50,ENG,2023/07/02,FALSE,Self-redeemed,,Video,HOME,G9[4] R3C4,KOR save,001000
-32073020,0006,Charizard,,dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,Matt,533239,50,ENG,2023/07/30,FALSE,Self-redeemed,,Video,HOME,G9[4] R5C6,,000010
-32073021,0006,Charizard,,dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,Matt,615964,50,ENG,2023/07/30,FALSE,Self-redeemed,,Video,HOME,G9[5] R1C2,,000011
-32073022,0006,Charizard,,dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,Matt,364892,50,ENG,2023/07/30,FALSE,Self-redeemed,,Video,HOME,G9[5] R1C4,,000100
-32073023,0006,Charizard,,dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,Matt,385336,50,ENG,2023/07/30,FALSE,Self-redeemed,,Video,HOME,G9[5] R1C6,,000101
-32073024,0006,Charizard,,dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,Matt,135222,50,ENG,2023/07/30,FALSE,Self-redeemed,,Video,HOME,G9[5] R2C2,,000110
-32073025,0006,Charizard,,dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,Matt,581485,50,ENG,2023/07/30,FALSE,Self-redeemed,,Video,HOME,G9[5] R2C4,,000111
-32073026,0006,Charizard,,dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,Matt,734608,50,ENG,2023/07/30,FALSE,Self-redeemed,,Video,HOME,G9[5] R2C6,,001000
-TBD,0006,Charizard,,dark-tera-charizard,female,FALSE,normal,paldea,Blaze,Adamant,Matt,468436,50,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R3C3,,000001
-TBD,0006,Charizard,,dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,Matt,418743,50,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R3C4,,000010
-TBD,0006,Charizard,,dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,Matt,222111,50,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R3C5,,000011
-TBD,0006,Charizard,,dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,Matt,767941,50,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R3C6,,000100
-TBD,0006,Charizard,,dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,Matt,154011,50,JPN,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R4C1,,000101
-TBD,0006,Charizard,,dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,Matt,441614,50,JPN,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R4C2,,000110
-TBD,0006,Charizard,,dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,Matt,475448,50,KOR,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R4C3,,000111
-TBD,0006,Charizard,,dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,Matt,178578,50,KOR,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R4C4,,001000
+23073020,0006,Charizard,,dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,Matt,533239,50,ENG,2023/07/30,FALSE,Self-redeemed,,Video,HOME,G9[4] R5C6,,000010
+23073021,0006,Charizard,,dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,Matt,615964,50,ENG,2023/07/30,FALSE,Self-redeemed,,Video,HOME,G9[5] R1C2,,000011
+23073022,0006,Charizard,,dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,Matt,364892,50,ENG,2023/07/30,FALSE,Self-redeemed,,Video,HOME,G9[5] R1C4,,000100
+23073023,0006,Charizard,,dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,Matt,385336,50,ENG,2023/07/30,FALSE,Self-redeemed,,Video,HOME,G9[5] R1C6,,000101
+23073024,0006,Charizard,,dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,Matt,135222,50,ENG,2023/07/30,FALSE,Self-redeemed,,Video,HOME,G9[5] R2C2,,000110
+23073025,0006,Charizard,,dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,Matt,581485,50,ENG,2023/07/30,FALSE,Self-redeemed,,Video,HOME,G9[5] R2C4,,000111
+23073026,0006,Charizard,,dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,Matt,734608,50,ENG,2023/07/30,FALSE,Self-redeemed,,Video,HOME,G9[5] R2C6,,001000
+23081117,0006,Charizard,,dark-tera-charizard,female,FALSE,normal,paldea,Blaze,Adamant,Matt,468436,50,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R3C3,,000001
+23081118,0006,Charizard,,dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,Matt,418743,50,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R3C4,,000010
+23081119,0006,Charizard,,dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,Matt,222111,50,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R3C5,,000011
+23081120,0006,Charizard,,dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,Matt,767941,50,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R3C6,,000100
+23081121,0006,Charizard,,dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,Matt,154011,50,JPN,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R4C1,,000101
+23081122,0006,Charizard,,dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,Matt,441614,50,JPN,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R4C2,,000110
+23081123,0006,Charizard,,dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,Matt,475448,50,KOR,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R4C3,,000111
+23081124,0006,Charizard,,dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,Matt,178578,50,KOR,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R4C4,,001000
 23073012,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023/07/30,FALSE,Self-redeemed,,Video,HOME,G9[4] R5C5,,000010
 23073013,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023/07/30,FALSE,Self-redeemed,,Video,HOME,G9[5] R1C1,,000011
 23073014,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023/07/30,FALSE,Self-redeemed,,Video,HOME,G9[5] R1C3,,000100
@@ -157,21 +157,21 @@ TBD,0006,Charizard,,dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,M
 23073016,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023/07/30,FALSE,Self-redeemed,,Video,HOME,G9[5] R2C1,,000110
 23073017,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023/07/30,FALSE,Self-redeemed,,Video,HOME,G9[5] R2C3,,000111
 23073018,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023/07/30,FALSE,Self-redeemed,,Video,HOME,G9[5] R2C5,,001000
-TBD,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R2C1,,000001
-TBD,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R2C2,,000010
-TBD,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R2C3,,000011
-TBD,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R2C4,,000100
-TBD,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R2C5,JPN save,000101
-TBD,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R2C6,JPN save,000110
-TBD,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R3C1,KOR save,000111
-TBD,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R3C2,KOR save,001000
-TBD,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023/08/12,FALSE,Self-redeemed,,Video,HOME,G9[7] R2C2,,000001
-TBD,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023/08/12,FALSE,Self-redeemed,,Video,HOME,G9[7] R2C3,,000010
-TBD,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023/08/12,FALSE,Self-redeemed,,Video,HOME,G9[7] R2C4,,000011
-TBD,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023/08/12,FALSE,Self-redeemed,,Video,HOME,G9[7] R2C5,,000100
-TBD,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023/08/12,FALSE,Self-redeemed,,Video,HOME,G9[7] R2C6,,000101
-TBD,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023/08/12,FALSE,Self-redeemed,,Video,HOME,G9[7] R3C1,,000110
-TBD,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023/08/12,FALSE,Self-redeemed,,Video,HOME,G9[7] R3C2,,000111
+23081109,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R2C1,,000001
+23081110,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R2C2,,000010
+23081111,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R2C3,,000011
+23081112,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R2C4,,000100
+23081113,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R2C5,JPN save,000101
+23081114,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R2C6,JPN save,000110
+23081115,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R3C1,KOR save,000111
+23081116,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R3C2,KOR save,001000
+23081208,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023/08/12,FALSE,Self-redeemed,,Video,HOME,G9[7] R2C2,,000001
+23081209,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023/08/12,FALSE,Self-redeemed,,Video,HOME,G9[7] R2C3,,000010
+23081210,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023/08/12,FALSE,Self-redeemed,,Video,HOME,G9[7] R2C4,,000011
+23081211,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023/08/12,FALSE,Self-redeemed,,Video,HOME,G9[7] R2C5,,000100
+23081212,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023/08/12,FALSE,Self-redeemed,,Video,HOME,G9[7] R2C6,,000101
+23081213,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023/08/12,FALSE,Self-redeemed,,Video,HOME,G9[7] R3C1,,000110
+23081214,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023/08/12,FALSE,Self-redeemed,,Video,HOME,G9[7] R3C2,,000111
 23080902,0151,Mew,,my-own-mew,,FALSE,normal,paldea,Synchronize,Lax,Matt,533239,5,ENG,2023/08/09,FALSE,Self-redeemed,,Video,HOME,G9[5] R3C2,tera fire,000010
 23080903,0151,Mew,,my-own-mew,,FALSE,normal,paldea,Synchronize,Docile,Matt,615964,5,ENG,2023/08/09,FALSE,Self-redeemed,,Video,HOME,G9[5] R3C3,tera steel,000011
 23080904,0151,Mew,,my-own-mew,,FALSE,normal,paldea,Synchronize,Calm,Matt,364892,5,ENG,2023/08/09,FALSE,Self-redeemed,,Video,HOME,G9[5] R3C4,tera ground,000100
@@ -179,33 +179,33 @@ TBD,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Cal
 23080906,0151,Mew,,my-own-mew,,FALSE,normal,paldea,Synchronize,Adamant,Matt,135222,5,ENG,2023/08/09,FALSE,Self-redeemed,,Video,HOME,G9[5] R3C6,tera psychic,000110
 23080907,0151,Mew,,my-own-mew,,FALSE,normal,paldea,Synchronize,Hasty,Matt,581485,5,ENG,2023/08/09,FALSE,Self-redeemed,,Video,HOME,G9[5] R4C1,tera fire,000111
 23080908,0151,Mew,,my-own-mew,,FALSE,normal,paldea,Synchronize,Lax,Matt,734608,5,ENG,2023/08/09,FALSE,Self-redeemed,,Video,HOME,G9[5] R4C2,tera fighting,001000
-TBD,0151,Mew,,my-own-mew,,FALSE,normal,paldea,Synchronize,Adamant,Matt,468436,5,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R4C5,tera flying,000001
-TBD,0151,Mew,,my-own-mew,,FALSE,normal,paldea,Synchronize,Impish,Matt,418743,5,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R4C6,tera electric,000010
-TBD,0151,Mew,,my-own-mew,,FALSE,normal,paldea,Synchronize,Bold,Matt,222111,5,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R5C1,tera electric,000011
-TBD,0151,Mew,,my-own-mew,,FALSE,normal,paldea,Synchronize,Sassy,Matt,767941,5,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R5C2,tera ghost,000100
-TBD,0151,Mew,,my-own-mew,,FALSE,normal,paldea,Synchronize,Quirky,Matt,154011,5,JPN,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R5C3,tera water,000101
-TBD,0151,Mew,,my-own-mew,,FALSE,normal,paldea,Synchronize,Quirky,Matt,441614,5,JPN,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R5C4,tera fighting,000110
-TBD,0151,Mew,,my-own-mew,,FALSE,normal,paldea,Synchronize,Relaxed,Matt,475448,5,KOR,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R5C5,tera flying,000111
-TBD,0151,Mew,,my-own-mew,,FALSE,normal,paldea,Synchronize,Careful,Matt,178578,5,KOR,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R5C6,tera ghost,001000
-TBD,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/10,FALSE,Self-redeemed,,Video,HOME,G9[5] R4C4,,000010
-TBD,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/10,FALSE,Self-redeemed,,Video,HOME,G9[5] R4C5,,000011
-TBD,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/10,FALSE,Self-redeemed,,Video,HOME,G9[5] R4C6,,000100
-TBD,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/10,FALSE,Self-redeemed,,Video,HOME,G9[5] R5C1,,000101
-TBD,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/10,FALSE,Self-redeemed,,Video,HOME,G9[5] R5C2,,000110
-TBD,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/10,FALSE,Self-redeemed,,Video,HOME,G9[5] R5C3,,000111
-TBD,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/10,FALSE,Self-redeemed,,Video,HOME,G9[5] R5C4,,001000
-TBD,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[5] R5C5,,000001
-TBD,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[5] R5C6,,000010
-TBD,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R1C1,,000011
-TBD,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R1C2,,000100
-TBD,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R1C3,JPN save,000101
-TBD,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R1C4,JPN save,000110
-TBD,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R1C5,KOR save,000111
-TBD,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R1C6,KOR save,001000
-TBD,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/12,FALSE,Self-redeemed,,Video,HOME,G9[7] R1C1,,000001
-TBD,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/12,FALSE,Self-redeemed,,Video,HOME,G9[7] R1C2,,000010
-TBD,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/12,FALSE,Self-redeemed,,Video,HOME,G9[7] R1C3,,000011
-TBD,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/12,FALSE,Self-redeemed,,Video,HOME,G9[7] R1C4,,000100
-TBD,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/12,FALSE,Self-redeemed,,Video,HOME,G9[7] R1C5,,000101
-TBD,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/12,FALSE,Self-redeemed,,Video,HOME,G9[7] R1C6,,000110
-TBD,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/12,FALSE,Self-redeemed,,Video,HOME,G9[7] R2C1,,000111
+23081125,0151,Mew,,my-own-mew,,FALSE,normal,paldea,Synchronize,Adamant,Matt,468436,5,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R4C5,tera flying,000001
+23081126,0151,Mew,,my-own-mew,,FALSE,normal,paldea,Synchronize,Impish,Matt,418743,5,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R4C6,tera electric,000010
+23081127,0151,Mew,,my-own-mew,,FALSE,normal,paldea,Synchronize,Bold,Matt,222111,5,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R5C1,tera electric,000011
+23081128,0151,Mew,,my-own-mew,,FALSE,normal,paldea,Synchronize,Sassy,Matt,767941,5,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R5C2,tera ghost,000100
+23081129,0151,Mew,,my-own-mew,,FALSE,normal,paldea,Synchronize,Quirky,Matt,154011,5,JPN,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R5C3,tera water,000101
+23081130,0151,Mew,,my-own-mew,,FALSE,normal,paldea,Synchronize,Quirky,Matt,441614,5,JPN,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R5C4,tera fighting,000110
+23081131,0151,Mew,,my-own-mew,,FALSE,normal,paldea,Synchronize,Relaxed,Matt,475448,5,KOR,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R5C5,tera flying,000111
+23081132,0151,Mew,,my-own-mew,,FALSE,normal,paldea,Synchronize,Careful,Matt,178578,5,KOR,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R5C6,tera ghost,001000
+23081002,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/10,FALSE,Self-redeemed,,Video,HOME,G9[5] R4C4,,000010
+23081003,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/10,FALSE,Self-redeemed,,Video,HOME,G9[5] R4C5,,000011
+23081004,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/10,FALSE,Self-redeemed,,Video,HOME,G9[5] R4C6,,000100
+23081005,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/10,FALSE,Self-redeemed,,Video,HOME,G9[5] R5C1,,000101
+23081006,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/10,FALSE,Self-redeemed,,Video,HOME,G9[5] R5C2,,000110
+23081007,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/10,FALSE,Self-redeemed,,Video,HOME,G9[5] R5C3,,000111
+23081008,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/10,FALSE,Self-redeemed,,Video,HOME,G9[5] R5C4,,001000
+23081101,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[5] R5C5,,000001
+23081102,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[5] R5C6,,000010
+23081103,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R1C1,,000011
+23081104,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R1C2,,000100
+23081105,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R1C3,JPN save,000101
+23081106,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R1C4,JPN save,000110
+23081107,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R1C5,KOR save,000111
+23081108,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R1C6,KOR save,001000
+23081201,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/12,FALSE,Self-redeemed,,Video,HOME,G9[7] R1C1,,000001
+23081202,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/12,FALSE,Self-redeemed,,Video,HOME,G9[7] R1C2,,000010
+23081203,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/12,FALSE,Self-redeemed,,Video,HOME,G9[7] R1C3,,000011
+23081204,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/12,FALSE,Self-redeemed,,Video,HOME,G9[7] R1C4,,000100
+23081205,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/12,FALSE,Self-redeemed,,Video,HOME,G9[7] R1C5,,000101
+23081206,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/12,FALSE,Self-redeemed,,Video,HOME,G9[7] R1C6,,000110
+23081207,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/12,FALSE,Self-redeemed,,Video,HOME,G9[7] R2C1,,000111

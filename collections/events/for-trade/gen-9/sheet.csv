@@ -150,6 +150,13 @@ ID,#,Species,Form,Event,Gender,Shiny,Ball,Origin Mark,Ability,Nature,OT,TID,Leve
 23081122,0006,Charizard,,dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,Matt,441614,50,JPN,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R4C2,,000110
 23081123,0006,Charizard,,dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,Matt,475448,50,KOR,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R4C3,,000111
 23081124,0006,Charizard,,dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,Matt,178578,50,KOR,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R4C4,,001000
+23082801,0006,Charizard,,dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,Matt,430536,50,ENG,2023/08/28,FALSE,Self-redeemed,,Video,HOME,G9[7] R4C2,,000001
+23082802,0006,Charizard,,dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,Violet,946551,50,ENG,2023/08/28,FALSE,Self-redeemed,,Video,HOME,G9[7] R4C3,,000010
+23082803,0006,Charizard,,dark-tera-charizard,female,FALSE,normal,paldea,Blaze,Adamant,Matt,869730,50,ENG,2023/08/28,FALSE,Self-redeemed,,Video,HOME,G9[7] R4C4,,000011
+23082804,0006,Charizard,,dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,Bacon King,917743,50,ENG,2023/08/28,FALSE,Self-redeemed,,Video,HOME,G9[7] R4C5,,000100
+23082805,0006,Charizard,,dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,Chris P.,696192,50,ENG,2023/08/28,FALSE,Self-redeemed,,Video,HOME,G9[7] R4C6,,000101
+23082806,0006,Charizard,,dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,Pancetta,806908,50,ITA,2023/08/28,FALSE,Self-redeemed,,Video,HOME,G9[7] R5C1,,000110
+23082807,0006,Charizard,,dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,Porco Rosso,418795,50,ITA,2023/08/28,FALSE,Self-redeemed,,Video,HOME,G9[7] R5C2,,000111
 23073012,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023/07/30,FALSE,Self-redeemed,,Video,HOME,G9[4] R5C5,,000010
 23073013,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023/07/30,FALSE,Self-redeemed,,Video,HOME,G9[5] R1C1,,000011
 23073014,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023/07/30,FALSE,Self-redeemed,,Video,HOME,G9[5] R1C3,,000100
@@ -187,6 +194,13 @@ ID,#,Species,Form,Event,Gender,Shiny,Ball,Origin Mark,Ability,Nature,OT,TID,Leve
 23081130,0151,Mew,,my-own-mew,,FALSE,normal,paldea,Synchronize,Quirky,Matt,441614,5,JPN,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R5C4,tera fighting,000110
 23081131,0151,Mew,,my-own-mew,,FALSE,normal,paldea,Synchronize,Relaxed,Matt,475448,5,KOR,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R5C5,tera flying,000111
 23081132,0151,Mew,,my-own-mew,,FALSE,normal,paldea,Synchronize,Careful,Matt,178578,5,KOR,2023/08/11,FALSE,Self-redeemed,,Video,HOME,G9[6] R5C6,tera ghost,001000
+23082808,0151,Mew,,my-own-mew,,FALSE,normal,paldea,Synchronize,Impish,Matt,430536,5,ENG,2023/08/28,FALSE,Self-redeemed,,Video,HOME,G9[7] R5C3,tera normal,000001
+23082809,0151,Mew,,my-own-mew,,FALSE,normal,paldea,Synchronize,Jolly,Violet,946551,5,ENG,2023/08/28,FALSE,Self-redeemed,,Video,HOME,G9[7] R5C4,tera dark,000010
+23082810,0151,Mew,,my-own-mew,,FALSE,normal,paldea,Synchronize,Docile,Matt,869730,5,ENG,2023/08/28,FALSE,Self-redeemed,,Video,HOME,G9[7] R5C5,tera psychic,000011
+23082811,0151,Mew,,my-own-mew,,FALSE,normal,paldea,Synchronize,Mild,Bacon King,917743,5,ENG,2023/08/28,FALSE,Self-redeemed,,Video,HOME,G9[7] R5C6,tera dragon,000100
+23082812,0151,Mew,,my-own-mew,,FALSE,normal,paldea,Synchronize,Jolly,Chris P.,696192,5,ENG,2023/08/28,FALSE,Self-redeemed,,Video,HOME,G9[8] R1C1,tera rock,000101
+23082813,0151,Mew,,my-own-mew,,FALSE,normal,paldea,Synchronize,Timid,Pancetta,806908,5,ITA,2023/08/28,FALSE,Self-redeemed,,Video,HOME,G9[8] R1C2,tera steel,000110
+23082814,0151,Mew,,my-own-mew,,FALSE,normal,paldea,Synchronize,Careful,Porco Rosso,418795,5,ITA,2023/08/28,FALSE,Self-redeemed,,Video,HOME,G9[8] R1C3,tera electric,000111
 23081002,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/10,FALSE,Self-redeemed,,Video,HOME,G9[5] R4C4,,000010
 23081003,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/10,FALSE,Self-redeemed,,Video,HOME,G9[5] R4C5,,000011
 23081004,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/10,FALSE,Self-redeemed,,Video,HOME,G9[5] R4C6,,000100
@@ -209,3 +223,9 @@ ID,#,Species,Form,Event,Gender,Shiny,Ball,Origin Mark,Ability,Nature,OT,TID,Leve
 23081205,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/12,FALSE,Self-redeemed,,Video,HOME,G9[7] R1C5,,000101
 23081206,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/12,FALSE,Self-redeemed,,Video,HOME,G9[7] R1C6,,000110
 23081207,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023/08/12,FALSE,Self-redeemed,,Video,HOME,G9[7] R2C1,,000111
+23082702,0978,Tatsugiri,stretchy,wcs-2023-tatsugiri,male,FALSE,cherish,paldea,Commander,Brave,WCS23,230811,50,JPN,2023/08/27,FALSE,Self-redeemed,,Video,HOME,G9[7] R3C4,,000010
+23082703,0978,Tatsugiri,stretchy,wcs-2023-tatsugiri,female,FALSE,cherish,paldea,Commander,Serious,WCS23,230811,50,JPN,2023/08/27,FALSE,Self-redeemed,,Video,HOME,G9[7] R3C5,,000011
+23082704,0978,Tatsugiri,stretchy,wcs-2023-tatsugiri,female,FALSE,cherish,paldea,Commander,Quiet,WCS23,230811,50,KOR,2023/08/27,FALSE,Self-redeemed,,Video,HOME,G9[7] R3C6,,000100
+23082705,0978,Tatsugiri,stretchy,wcs-2023-tatsugiri,female,FALSE,cherish,paldea,Commander,Docile,WCS23,230811,50,KOR,2023/08/27,FALSE,Self-redeemed,,Video,HOME,G9[7] R4C1,,000101
+23082815,0978,Tatsugiri,stretchy,wcs-2023-tatsugiri,female,FALSE,cherish,paldea,Commander,Quirky,Worlds23,230811,50,ENG,2023/08/28,FALSE,Self-redeemed,,Video,HOME,G9[8] R1C4,,000001
+23082816,0978,Tatsugiri,stretchy,wcs-2023-tatsugiri,female,FALSE,cherish,paldea,Commander,Serious,Worlds23,230811,50,ENG,2023/08/28,FALSE,Self-redeemed,,Video,HOME,G9[8] R1C5,,000010

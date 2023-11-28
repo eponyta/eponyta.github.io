@@ -233,5 +233,27 @@ ID,#,Species,Form,Event,Gender,Shiny,Ball,Origin Mark,Ability,Nature,OT,TID,Leve
 23102301,0778,Mimikyu,,gamestop-mimikyu,male,FALSE,cherish,paldea,Disguise,Naive,Trixie,231006,25,ENG,2023-10-23,FALSE,Self-redeemed,,Video,HOME,G9[8] R1C6,,000001
 23102303,0778,Mimikyu,,gamestop-mimikyu,male,FALSE,cherish,paldea,Disguise,Naughty,Trixie,231006,25,ENG,2023-10-23,FALSE,Self-redeemed,,Video,HOME,G9[8] R2C2,,000010
 23103102,0778,Mimikyu,,gamestop-mimikyu,male,FALSE,cherish,paldea,Disguise,Mild,Trixie,231006,25,ENG,2023-10-31,FALSE,Self-redeemed,,Video,HOME,G9[8] R2C5,,000010
-23103103,0778,Mimikyu,,gamestop-mimikyu,male,FALSE,cherish,paldea,Disguise,Serious,Trixie,231006,25,ENG,2023-10-31,FALSE,Self-redeemed,,Video,HOME,G9[8] R2C6,,000011
+23103103,0778,Mimikyu,,gamestop-mimikyu,female,FALSE,cherish,paldea,Disguise,Serious,Trixie,231006,25,ENG,2023-10-31,FALSE,Self-redeemed,,Video,HOME,G9[8] R2C6,,000011
 23103104,0778,Mimikyu,,gamestop-mimikyu,male,FALSE,cherish,paldea,Disguise,Mild,Trixie,231006,25,ENG,2023-10-31,FALSE,Self-redeemed,,Video,HOME,G9[8] R3C1,,000100
+23111702,0887,Dragapult,,laic-2023-dragapult,male,FALSE,cherish,paldea,Clear Body,Jolly,Alex,231117,50,SP-EU,2023-11-17,FALSE,Self-redeemed,,Video,HOME,G9[8] R3C3,,000010
+23111703,0887,Dragapult,,laic-2023-dragapult,male,FALSE,cherish,paldea,Clear Body,Jolly,Alex,231117,50,SP-EU,2023-11-17,FALSE,Self-redeemed,,Video,HOME,G9[8] R3C4,,000011
+23111704,0887,Dragapult,,laic-2023-dragapult,male,FALSE,cherish,paldea,Clear Body,Jolly,Alex,231117,50,SP-EU,2023-11-17,FALSE,Self-redeemed,,Video,HOME,G9[8] R3C5,,000100
+23111705,0887,Dragapult,,laic-2023-dragapult,male,FALSE,cherish,paldea,Clear Body,Jolly,Alex,231117,50,SP-EU,2023-11-17,FALSE,Self-redeemed,,Video,HOME,G9[8] R3C6,,000101
+23111706,0887,Dragapult,,laic-2023-dragapult,male,FALSE,cherish,paldea,Clear Body,Jolly,Alex,231117,50,SP-EU,2023-11-17,FALSE,Self-redeemed,,Video,HOME,G9[8] R4C1,,000110
+23111707,0887,Dragapult,,laic-2023-dragapult,male,FALSE,cherish,paldea,Clear Body,Jolly,Alex,231117,50,SP-EU,2023-11-17,FALSE,Self-redeemed,,Video,HOME,G9[8] R4C2,,000111
+23111708,0887,Dragapult,,laic-2023-dragapult,male,FALSE,cherish,paldea,Clear Body,Jolly,Alex,231117,50,SP-EU,2023-11-17,FALSE,Self-redeemed,,Video,HOME,G9[8] R4C3,,001000
+23111901,0887,Dragapult,,laic-2023-dragapult,male,FALSE,cherish,paldea,Clear Body,Jolly,Alex,231117,50,SP-EU,2023-11-19,FALSE,Self-redeemed,,Video,HOME,G9[8] R4C4,,000001
+23111902,0887,Dragapult,,laic-2023-dragapult,male,FALSE,cherish,paldea,Clear Body,Jolly,Alex,231117,50,SP-EU,2023-11-19,FALSE,Self-redeemed,,Video,HOME,G9[8] R4C5,,000010
+23111903,0887,Dragapult,,laic-2023-dragapult,male,FALSE,cherish,paldea,Clear Body,Jolly,Alex,231117,50,SP-EU,2023-11-19,FALSE,Self-redeemed,,Video,HOME,G9[8] R4C6,,000011
+23111904,0887,Dragapult,,laic-2023-dragapult,male,FALSE,cherish,paldea,Clear Body,Jolly,Alex,231117,50,SP-EU,2023-11-19,FALSE,Self-redeemed,,Video,HOME,G9[8] R5C1,,000100
+23111905,0887,Dragapult,,laic-2023-dragapult,male,FALSE,cherish,paldea,Clear Body,Jolly,Alex,231117,50,SP-EU,2023-11-19,FALSE,Self-redeemed,,Video,HOME,G9[8] R5C2,,000101
+23111906,0887,Dragapult,,laic-2023-dragapult,male,FALSE,cherish,paldea,Clear Body,Jolly,Alex,231117,50,SP-EU,2023-11-19,FALSE,Self-redeemed,,Video,HOME,G9[8] R5C3,,000110
+23111907,0887,Dragapult,,laic-2023-dragapult,male,FALSE,cherish,paldea,Clear Body,Jolly,Alex,231117,50,SP-EU,2023-11-19,FALSE,Self-redeemed,,Video,HOME,G9[8] R5C4,,000111
+23111908,0887,Dragapult,,laic-2023-dragapult,male,FALSE,cherish,paldea,Clear Body,Jolly,Alex,231117,50,SP-EU,2023-11-19,FALSE,Self-redeemed,,Video,HOME,G9[8] R5C5,,001000
+23111909,0887,Dragapult,,laic-2023-dragapult,male,FALSE,cherish,paldea,Clear Body,Jolly,Alex,231117,50,SP-EU,2023-11-19,FALSE,Self-redeemed,,Video,HOME,G9[8] R5C6,,001001
+23111910,0887,Dragapult,,laic-2023-dragapult,male,FALSE,cherish,paldea,Clear Body,Jolly,Alex,231117,50,SP-EU,2023-11-19,FALSE,Self-redeemed,,Video,HOME,G9[9] R1C1,,001010
+23111911,0887,Dragapult,,laic-2023-dragapult,male,FALSE,cherish,paldea,Clear Body,Jolly,Alex,231117,50,SP-EU,2023-11-19,FALSE,Self-redeemed,,Video,HOME,G9[9] R1C2,,001011
+23111912,0887,Dragapult,,laic-2023-dragapult,male,FALSE,cherish,paldea,Clear Body,Jolly,Alex,231117,50,SP-EU,2023-11-19,FALSE,Self-redeemed,,Video,HOME,G9[9] R1C3,,001100
+23111913,0887,Dragapult,,laic-2023-dragapult,male,FALSE,cherish,paldea,Clear Body,Jolly,Alex,231117,50,SP-EU,2023-11-19,FALSE,Self-redeemed,,Video,HOME,G9[9] R1C4,,001101
+23111914,0887,Dragapult,,laic-2023-dragapult,male,FALSE,cherish,paldea,Clear Body,Jolly,Alex,231117,50,SP-EU,2023-11-19,FALSE,Self-redeemed,,Video,HOME,G9[9] R1C5,,001110
+23111915,0887,Dragapult,,laic-2023-dragapult,male,FALSE,cherish,paldea,Clear Body,Jolly,Alex,231117,50,SP-EU,2023-11-19,FALSE,Self-redeemed,,Video,HOME,G9[9] R1C6,,001111

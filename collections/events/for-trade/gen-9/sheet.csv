@@ -264,6 +264,13 @@ ID,#,Species,Form,Event,Gender,Shiny,Ball,Origin Mark,Ability,Nature,OT,TID,Leve
 23120803,0491,Darkrai,,new-moon-darkrai,,FALSE,cherish,paldea,Bad Dreams,Naughty,Matt,135222,50,ENG,2023-12-08,FALSE,Self-redeemed,,Video,HOME,G9[9] R3C3,,000011
 23120804,0491,Darkrai,,new-moon-darkrai,,FALSE,cherish,paldea,Bad Dreams,Docile,Matt,581485,50,ENG,2023-12-08,FALSE,Self-redeemed,,Video,HOME,G9[9] R3C4,,000100
 23120805,0491,Darkrai,,new-moon-darkrai,,FALSE,cherish,paldea,Bad Dreams,Lax,Matt,734608,50,ENG,2023-12-08,FALSE,Self-redeemed,,Video,HOME,G9[9] R3C5,,000101
+23121101,0491,Darkrai,,new-moon-darkrai,,FALSE,cherish,paldea,Bad Dreams,Impish,Matt,430536,50,ENG,2023-12-11,FALSE,Self-redeemed,,Video,HOME,G9[9] R4C5,,000001
+23121102,0491,Darkrai,,new-moon-darkrai,,FALSE,cherish,paldea,Bad Dreams,Naive,Violet,946551,50,ENG,2023-12-11,FALSE,Self-redeemed,,Video,HOME,G9[9] R4C6,,000010
+23121103,0491,Darkrai,,new-moon-darkrai,,FALSE,cherish,paldea,Bad Dreams,Sassy,Matt,869730,50,ENG,2023-12-11,FALSE,Self-redeemed,,Video,HOME,G9[9] R5C1,,000011
+23121104,0491,Darkrai,,new-moon-darkrai,,FALSE,cherish,paldea,Bad Dreams,Mild,Bacon King,917743,50,ENG,2023-12-11,FALSE,Self-redeemed,,Video,HOME,G9[9] R5C2,,000100
+23121105,0491,Darkrai,,new-moon-darkrai,,FALSE,cherish,paldea,Bad Dreams,Calm,Chris P.,696192,50,ENG,2023-12-11,FALSE,Self-redeemed,,Video,HOME,G9[9] R5C3,,000101
+23121106,0491,Darkrai,,new-moon-darkrai,,FALSE,cherish,paldea,Bad Dreams,Lonely,Pancetta,806908,50,ITA,2023-12-11,FALSE,Self-redeemed,,Video,HOME,G9[9] R5C4,,000110
+23121107,0491,Darkrai,,new-moon-darkrai,,FALSE,cherish,paldea,Bad Dreams,Jolly,Porco Rosso,418795,50,ITA,2023-12-11,FALSE,Self-redeemed,,Video,HOME,G9[9] R5C5,,000111
 23120705,0448,Lucario,,shiny-buddy-lucario,male,TRUE,cherish,paldea,Inner Focus,Naive,Matt,533239,75,ENG,2023-12-07,FALSE,Self-redeemed,,Video,HOME,G9[9] R2C5,,000010
 23120706,0448,Lucario,,shiny-buddy-lucario,male,TRUE,cherish,paldea,Inner Focus,Naive,Matt,615964,75,ENG,2023-12-07,FALSE,Self-redeemed,,Video,HOME,G9[9] R2C6,,000011
 23120806,0448,Lucario,,shiny-buddy-lucario,male,TRUE,cherish,paldea,Inner Focus,Naive,Matt,364892,75,ENG,2023-12-08,FALSE,Self-redeemed,,Video,HOME,G9[9] R3C6,,000001
@@ -271,3 +278,10 @@ ID,#,Species,Form,Event,Gender,Shiny,Ball,Origin Mark,Ability,Nature,OT,TID,Leve
 23120808,0448,Lucario,,shiny-buddy-lucario,male,TRUE,cherish,paldea,Inner Focus,Naive,Matt,135222,75,ENG,2023-12-08,FALSE,Self-redeemed,,Video,HOME,G9[9] R4C2,,000011
 23120809,0448,Lucario,,shiny-buddy-lucario,male,TRUE,cherish,paldea,Inner Focus,Naive,Matt,581485,75,ENG,2023-12-08,FALSE,Self-redeemed,,Video,HOME,G9[9] R4C3,,000100
 23120810,0448,Lucario,,shiny-buddy-lucario,male,TRUE,cherish,paldea,Inner Focus,Naive,Matt,734608,75,ENG,2023-12-08,FALSE,Self-redeemed,,Video,HOME,G9[9] R4C4,,000101
+23121108,0448,Lucario,,shiny-buddy-lucario,male,TRUE,cherish,paldea,Inner Focus,Naive,Matt,430536,75,ENG,2023-12-11,FALSE,Self-redeemed,,Video,HOME,G9[9] R5C6,,000001
+23121109,0448,Lucario,,shiny-buddy-lucario,male,TRUE,cherish,paldea,Inner Focus,Naive,Violet,946551,75,ENG,2023-12-11,FALSE,Self-redeemed,,Video,HOME,G9[10] R1C1,,000010
+23121110,0448,Lucario,,shiny-buddy-lucario,male,TRUE,cherish,paldea,Inner Focus,Naive,Matt,869730,75,ENG,2023-12-11,FALSE,Self-redeemed,,Video,HOME,G9[10] R1C2,,000011
+23121111,0448,Lucario,,shiny-buddy-lucario,male,TRUE,cherish,paldea,Inner Focus,Naive,Bacon King,917743,75,ENG,2023-12-11,FALSE,Self-redeemed,,Video,HOME,G9[10] R1C3,,000100
+23121112,0448,Lucario,,shiny-buddy-lucario,male,TRUE,cherish,paldea,Inner Focus,Naive,Chris P.,696192,75,ENG,2023-12-11,FALSE,Self-redeemed,,Video,HOME,G9[10] R1C4,,000101
+23121113,0448,Lucario,,shiny-buddy-lucario,male,TRUE,cherish,paldea,Inner Focus,Naive,Pancetta,806908,75,ITA,2023-12-11,FALSE,Self-redeemed,,Video,HOME,G9[10] R1C5,,000110
+23121114,0448,Lucario,,shiny-buddy-lucario,male,TRUE,cherish,paldea,Inner Focus,Naive,Porco Rosso,418795,75,ITA,2023-12-11,FALSE,Self-redeemed,,Video,HOME,G9[10] R1C6,,000111

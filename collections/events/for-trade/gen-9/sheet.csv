@@ -271,6 +271,14 @@ ID,#,Species,Form,Event,Gender,Shiny,Ball,Origin Mark,Ability,Nature,OT,TID,Leve
 23121105,0491,Darkrai,,new-moon-darkrai,,FALSE,cherish,paldea,Bad Dreams,Calm,Chris P.,696192,50,ENG,2023-12-11,FALSE,Self-redeemed,,Video,HOME,G9[9] R5C3,,000101
 23121106,0491,Darkrai,,new-moon-darkrai,,FALSE,cherish,paldea,Bad Dreams,Lonely,Pancetta,806908,50,ITA,2023-12-11,FALSE,Self-redeemed,,Video,HOME,G9[9] R5C4,,000110
 23121107,0491,Darkrai,,new-moon-darkrai,,FALSE,cherish,paldea,Bad Dreams,Jolly,Porco Rosso,418795,50,ITA,2023-12-11,FALSE,Self-redeemed,,Video,HOME,G9[9] R5C5,,000111
+23121201,0491,Darkrai,,new-moon-darkrai,,FALSE,cherish,paldea,Bad Dreams,Quiet,Matt,468436,50,ENG,2023-12-12,FALSE,Self-redeemed,,Video,HOME,G9[10] R2C1,,000001
+23121202,0491,Darkrai,,new-moon-darkrai,,FALSE,cherish,paldea,Bad Dreams,Serious,Matt,418743,50,ENG,2023-12-12,FALSE,Self-redeemed,,Video,HOME,G9[10] R2C2,,000010
+23121203,0491,Darkrai,,new-moon-darkrai,,FALSE,cherish,paldea,Bad Dreams,Bold,Matt,222111,50,ENG,2023-12-12,FALSE,Self-redeemed,,Video,HOME,G9[10] R2C3,,000011
+23121204,0491,Darkrai,,new-moon-darkrai,,FALSE,cherish,paldea,Bad Dreams,Quirky,Matt,767941,50,ENG,2023-12-12,FALSE,Self-redeemed,,Video,HOME,G9[10] R2C4,,000100
+23121205,0491,Darkrai,,new-moon-darkrai,,FALSE,cherish,paldea,Bad Dreams,Bold,Matt,154011,50,JPN,2023-12-12,FALSE,Self-redeemed,,Video,HOME,G9[10] R2C5,,000101
+23121206,0491,Darkrai,,new-moon-darkrai,,FALSE,cherish,paldea,Bad Dreams,Adamant,Matt,441614,50,JPN,2023-12-12,FALSE,Self-redeemed,,Video,HOME,G9[10] R2C6,,000110
+23121207,0491,Darkrai,,new-moon-darkrai,,FALSE,cherish,paldea,Bad Dreams,Relaxed,Matt,475448,50,KOR,2023-12-12,FALSE,Self-redeemed,,Video,HOME,G9[10] R3C1,,000111
+23121208,0491,Darkrai,,new-moon-darkrai,,FALSE,cherish,paldea,Bad Dreams,Sassy,Matt,178578,50,KOR,2023-12-12,FALSE,Self-redeemed,,Video,HOME,G9[10] R3C2,,001000
 23120705,0448,Lucario,,shiny-buddy-lucario,male,TRUE,cherish,paldea,Inner Focus,Naive,Matt,533239,75,ENG,2023-12-07,FALSE,Self-redeemed,,Video,HOME,G9[9] R2C5,,000010
 23120706,0448,Lucario,,shiny-buddy-lucario,male,TRUE,cherish,paldea,Inner Focus,Naive,Matt,615964,75,ENG,2023-12-07,FALSE,Self-redeemed,,Video,HOME,G9[9] R2C6,,000011
 23120806,0448,Lucario,,shiny-buddy-lucario,male,TRUE,cherish,paldea,Inner Focus,Naive,Matt,364892,75,ENG,2023-12-08,FALSE,Self-redeemed,,Video,HOME,G9[9] R3C6,,000001
@@ -285,3 +293,11 @@ ID,#,Species,Form,Event,Gender,Shiny,Ball,Origin Mark,Ability,Nature,OT,TID,Leve
 23121112,0448,Lucario,,shiny-buddy-lucario,male,TRUE,cherish,paldea,Inner Focus,Naive,Chris P.,696192,75,ENG,2023-12-11,FALSE,Self-redeemed,,Video,HOME,G9[10] R1C4,,000101
 23121113,0448,Lucario,,shiny-buddy-lucario,male,TRUE,cherish,paldea,Inner Focus,Naive,Pancetta,806908,75,ITA,2023-12-11,FALSE,Self-redeemed,,Video,HOME,G9[10] R1C5,,000110
 23121114,0448,Lucario,,shiny-buddy-lucario,male,TRUE,cherish,paldea,Inner Focus,Naive,Porco Rosso,418795,75,ITA,2023-12-11,FALSE,Self-redeemed,,Video,HOME,G9[10] R1C6,,000111
+23121209,0448,Lucario,,shiny-buddy-lucario,male,TRUE,cherish,paldea,Inner Focus,Naive,Matt,468436,75,ENG,2023-12-12,FALSE,Self-redeemed,,Video,HOME,G9[10] R3C3,,000001
+23121210,0448,Lucario,,shiny-buddy-lucario,male,TRUE,cherish,paldea,Inner Focus,Naive,Matt,418743,75,ENG,2023-12-12,FALSE,Self-redeemed,,Video,HOME,G9[10] R3C4,,000010
+23121211,0448,Lucario,,shiny-buddy-lucario,male,TRUE,cherish,paldea,Inner Focus,Naive,Matt,222111,75,ENG,2023-12-12,FALSE,Self-redeemed,,Video,HOME,G9[10] R3C5,,000011
+23121212,0448,Lucario,,shiny-buddy-lucario,male,TRUE,cherish,paldea,Inner Focus,Naive,Matt,767941,75,ENG,2023-12-12,FALSE,Self-redeemed,,Video,HOME,G9[10] R3C6,,000100
+23121213,0448,Lucario,,shiny-buddy-lucario,male,TRUE,cherish,paldea,Inner Focus,Naive,Matt,154011,75,JPN,2023-12-12,FALSE,Self-redeemed,,Video,HOME,G9[10] R341,,000101
+23121214,0448,Lucario,,shiny-buddy-lucario,male,TRUE,cherish,paldea,Inner Focus,Naive,Matt,441614,75,JPN,2023-12-12,FALSE,Self-redeemed,,Video,HOME,G9[10] R4C2,,000110
+23121215,0448,Lucario,,shiny-buddy-lucario,male,TRUE,cherish,paldea,Inner Focus,Naive,Matt,475448,75,KOR,2023-12-12,FALSE,Self-redeemed,,Video,HOME,G9[10] R4C3,,000111
+23121216,0448,Lucario,,shiny-buddy-lucario,male,TRUE,cherish,paldea,Inner Focus,Naive,Matt,178578,75,KOR,2023-12-12,FALSE,Self-redeemed,,Video,HOME,G9[10] R4C4,,001000

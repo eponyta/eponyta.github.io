@@ -4,6 +4,10 @@ ID,#,Species,Form,Event,Gender,Shiny,Ball,Origin Mark,Ability,Nature,OT,TID,Leve
 23040101,0915,Lechonk,,flying-lechonk,male,FALSE,cherish,paldea,Thick Fat,Bashful,Matt,456206,15,ENG,2023-04-01,FALSE,Self-redeemed,,Video,HOME,G9[2] R3C3,,000001
 23041401,0964,Palafin,,gavin-palafin,female,FALSE,cherish,paldea,Zero to Hero,Adamant,Gavin,230414,50,ENG,2023-04-14,FALSE,Self-redeemed,,Video,HOME,G9[1] R1C4,,000001
 23052901,0669,Flabébé,white,bday-flabebe,female,FALSE,cherish,paldea,Flower Veil,Lax,ポケセン,221118,5,JPN,2023-05-29,FALSE,Self-redeemed,,Video,HOME,G9[2] R3C2,,000000
+24012901,0669,Flabébé,orange,bday-flabebe,female,FALSE,cherish,paldea,Flower Veil,Mild,PokéCenter,221118,5,ENG,2024-01-29,FALSE,Self-redeemed,,Video,HOME,G9[11] R1C2,,000001
+24012903,0669,Flabébé,red,bday-flabebe,female,FALSE,cherish,paldea,Flower Veil,Lonely,PokéCenter,221118,5,ENG,2024-01-29,FALSE,Self-redeemed,,Video,HOME,G9[11] R1C4,,000011
+24012906,0669,Flabébé,blue,bday-flabebe,female,FALSE,cherish,paldea,Flower Veil,Calm,PokéCenter,221118,5,ENG,2024-01-29,FALSE,Self-redeemed,,Video,HOME,G9[11] R2C1,,000110
+24012908,0669,Flabébé,yellow,bday-flabebe,female,FALSE,cherish,paldea,Flower Veil,Timid,ポケセン,221118,5,JPN,2024-01-29,FALSE,Self-redeemed,,Video,HOME,G9[11] R2C3,,001000
 23060901,0437,Bronzong,,yasuharu-bronzong,,FALSE,cherish,paldea,Levitate,Relaxed,そらみつ,230610,50,JPN,2023-06-09,FALSE,Self-redeemed,,Video,HOME,G9[1] R4C4,,000001
 23061101,0025,Pikachu,,pikatto-pikachu,male,FALSE,cherish,paldea,Static,Naive,ポケセン,230422,25,JPN,2023-06-11,FALSE,Self-redeemed,,Video,HOME,G9[2] R4C2,,000001
 23073004,0172,Pichu,,michina-pichu,male,TRUE,cherish,paldea,Static,Jolly,미케나,230531,30,KOR,2023-07-30,FALSE,Self-redeemed,,Video,HOME,G9[4] R4C5,Proof has wrong count on note (3 instead of 4). Fixed mid-video,000100
@@ -20,3 +24,4 @@ ID,#,Species,Form,Event,Gender,Shiny,Ball,Origin Mark,Ability,Nature,OT,TID,Leve
 23111701,0887,Dragapult,,laic-2023-dragapult,male,FALSE,cherish,paldea,Clear Body,Jolly,Alex,231117,50,SP-EU,2023-11-17,FALSE,Self-redeemed,,Video,HOME,G9[8] R3C2,,000001
 23120701,0491,Darkrai,,new-moon-darkrai,,FALSE,cherish,paldea,Bad Dreams,Modest,Matt,456206,50,ENG,2023-12-07,FALSE,Self-redeemed,,Video,HOME,G9[9] R2C1,,000001
 23120704,0448,Lucario,,shiny-buddy-lucario,male,TRUE,cherish,paldea,Inner Focus,Naive,Matt,456206,75,ENG,2023-12-07,FALSE,Self-redeemed,,Video,HOME,G9[9] R2C4,,000001
+24012909,0998,Baxcalibur,,kor-winter-festa-baxcalibur,male,FALSE,cherish,paldea,Thermal Exchange,Impish,윈터페스타,240101,54,KOR,2024-01-29,FALSE,Self-redeemed,,Video,HOME,G9[11] R2C4,,000000

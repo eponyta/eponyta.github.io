@@ -50,7 +50,7 @@ ID,#,Species,Form,Event,Gender,Shiny,Ball,Origin Mark,Ability,Nature,OT,TID,Leve
 22061114,0861,Grimmsnarl,,ptc-2022-grimmsnarl,male,FALSE,cherish,galar,Prankster,Careful,정원석,220611,50,KOR,2022-06-11,FALSE,Self-redeemed,,Video,HOME,G8[2] R3C2,
 22061701,0035,Clefairy,,jirawiwat-clefairy,female,TRUE,cherish,galar,Friend Guard,Bold,Jirawiwat,220618,50,ENG,2022-06-17,FALSE,Self-redeemed,,Video,HOME,G8[2] R5C3,
 22062501,0423,Gastrodon,east,eric-gastrodon,female,FALSE,cherish,galar,Storm Drain,Sassy,Eric,220624,50,SPA,2022-06-25,FALSE,Self-redeemed,,Video,HOME,G8[3] R3C2,
-22071501,0486,Regigigas,,teni-village-regi,,,,bdsp,Slow Start,Modest,전이마을,220601,100,KOR,2022-07-15,FALSE,Self-redeemed,,Video,HOME,G8[4] R1C3,
+22071501,0486,Regigigas,,teni-village-regi,,FALSE,cherish,bdsp,Slow Start,Modest,전이마을,220601,100,KOR,2022-07-15,FALSE,Self-redeemed,,Video,HOME,G8[4] R1C3,
 22071503,0393,Piplup,,dawn-piplup-bdsp,male,FALSE,normal,bdsp,Torrent,Hardy,빛나,220601,50,KOR,2022-07-15,FALSE,Self-redeemed,,Video,HOME,G8[4] R2C3,
 22071504,0393,Piplup,,dawn-piplup-pla,male,FALSE,normal-hisui,arceus,Torrent,Hardy,빛나,220601,50,KOR,2022-07-15,FALSE,Self-redeemed,,Video,HOME,G8[4] R2C4,
 22081801,0494,Victini,,victory-victini,,FALSE,cherish,galar,Victory Star,Brave,Victory,220818,50,ENG,2022-08-18,FALSE,Self-redeemed,,Video,HOME,Living Dex,

@@ -26,5 +26,11 @@ ID,#,Species,Form,Event,Gender,Shiny,Ball,Origin Mark,Ability,Nature,OT,TID,Leve
 23120701,0491,Darkrai,,new-moon-darkrai,,FALSE,cherish,paldea,Bad Dreams,Modest,Matt,456206,50,ENG,2023-12-07,FALSE,Self-redeemed,,Video,HOME,G9[9] R2C1,,000001
 23120704,0448,Lucario,,shiny-buddy-lucario,male,TRUE,cherish,paldea,Inner Focus,Naive,Matt,456206,75,ENG,2023-12-07,FALSE,Self-redeemed,,Video,HOME,G9[9] R2C4,,000001
 24012909,0998,Baxcalibur,,kor-winter-festa-baxcalibur,male,FALSE,cherish,paldea,Thermal Exchange,Impish,윈터페스타,240101,54,KOR,2024-01-29,FALSE,Self-redeemed,,Video,HOME,G9[11] R2C4,,000000
-24021201,1005,Roaring Moon,,corocoro-roaring-moon-iron-valiant,,FALSE,friend,paldea,Protosynthesis,Naughty,コロコロ,5656,75,ENG,2024-02-12,FALSE,Self-redeemed,,Video,HOME,G9[11] R3C1,,000001
-24021205,1006,Iron Valiant,,corocoro-roaring-moon-iron-valiant,,FALSE,friend,paldea,Quark Drive,Naughty,コロコロ,5656,75,ENG,2024-02-12,FALSE,Self-redeemed,,Video,HOME,G9[11] R3C5,,000010
+24021201,1005,Roaring Moon,,corocoro-roaring-moon-iron-valiant,,FALSE,friend,paldea,Protosynthesis,Naughty,コロコロ,5656,75,JPN,2024-02-12,FALSE,Self-redeemed,,Video,HOME,G9[11] R3C1,,000001
+24021205,1006,Iron Valiant,,corocoro-roaring-moon-iron-valiant,,FALSE,friend,paldea,Quark Drive,Naughty,コロコロ,5656,75,JPN,2024-02-12,FALSE,Self-redeemed,,Video,HOME,G9[11] R3C5,,000010
+24031101,0985,Scream Tail,,corocoro-paradox-abc,,FALSE,friend,paldea,Protosynthesis,Quiet,コロコロ,5656,75,JPN,2024-03-11,FALSE,Self-redeemed,,Video,HOME,G9[11] R4C1,,000000
+24031102,0986,Brute Bonnet,,corocoro-paradox-abc,,FALSE,friend,paldea,Protosynthesis,Quirky,コロコロ,5656,75,JPN,2024-03-11,FALSE,Self-redeemed,,Video,HOME,G9[11] R4C2,,000000
+24031103,0987,Flutter Mane,,corocoro-paradox-abc,,FALSE,friend,paldea,Protosynthesis,Jolly,コロコロ,5656,75,JPN,2024-03-11,FALSE,Self-redeemed,,Video,HOME,G9[11] R4C3,,000000
+24031104,0992,Iron Hands,,corocoro-paradox-abc,,FALSE,friend,paldea,Quark Drive,Lax,コロコロ,5656,75,JPN,2024-03-11,FALSE,Self-redeemed,,Video,HOME,G9[11] R4C4,,000000
+24031105,0993,Iron Jugulis,,corocoro-paradox-abc,,FALSE,friend,paldea,Quark Drive,Bashful,コロコロ,5656,75,JPN,2024-03-11,FALSE,Self-redeemed,,Video,HOME,G9[11] R4C5,,000000
+24031106,0995,Iron Thorns,,corocoro-paradox-abc,,FALSE,friend,paldea,Quark Drive,Lonely,コロコロ,5656,75,JPN,2024-03-11,FALSE,Self-redeemed,,Video,HOME,G9[11] R4C6,,000000

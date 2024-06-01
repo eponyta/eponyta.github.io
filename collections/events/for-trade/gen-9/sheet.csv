@@ -322,3 +322,54 @@ ID,#,Species,Form,Event,Gender,Shiny,Ball,Origin Mark,Ability,Nature,OT,TID,Leve
 24033001,0143,Snorlax,,kabigon-toissho-snorlax,,FALSE,dream,paldea,Gluttony,Lax,プロカビ,240223,20,JPN,2024-03-30,FALSE,Self-redeemed,,Video,HOME,G9[11] R5C5,,000001
 24033002,0143,Snorlax,,kabigon-toissho-snorlax,,FALSE,dream,paldea,Gluttony,Lax,プロカビ,240223,20,JPN,2024-03-30,FALSE,Self-redeemed,,Video,HOME,G9[11] R5C6,,000010
 24033003,0143,Snorlax,,kabigon-toissho-snorlax,,FALSE,dream,paldea,Gluttony,Lax,プロカビ,240223,20,JPN,2024-03-30,FALSE,Self-redeemed,,Video,HOME,G9[12] R1C1,,000011
+24040502,0992,Iron Hands,,euic-2024-iron-hands,,FALSE,cherish,paldea,Quark Drive,Adamant,Marco,240405,50,ITA,2024-04-05,FALSE,Self-redeemed,,Video,HOME,G9[12] R1C3,,000010
+24040503,0992,Iron Hands,,euic-2024-iron-hands,,FALSE,cherish,paldea,Quark Drive,Adamant,Marco,240405,50,ITA,2024-04-05,FALSE,Self-redeemed,,Video,HOME,G9[12] R1C4,,000011
+24040504,0992,Iron Hands,,euic-2024-iron-hands,,FALSE,cherish,paldea,Quark Drive,Adamant,Marco,240405,50,ITA,2024-04-05,FALSE,Self-redeemed,,Video,HOME,G9[12] R1C5,,000100
+24040505,0992,Iron Hands,,euic-2024-iron-hands,,FALSE,cherish,paldea,Quark Drive,Adamant,Marco,240405,50,ITA,2024-04-05,FALSE,Self-redeemed,,Video,HOME,G9[12] R1C6,,000101
+24040506,0992,Iron Hands,,euic-2024-iron-hands,,FALSE,cherish,paldea,Quark Drive,Adamant,Marco,240405,50,ITA,2024-04-05,FALSE,Self-redeemed,,Video,HOME,G9[12] R2C1,,000110
+24040507,0992,Iron Hands,,euic-2024-iron-hands,,FALSE,cherish,paldea,Quark Drive,Adamant,Marco,240405,50,ITA,2024-04-05,FALSE,Self-redeemed,,Video,HOME,G9[12] R2C2,,000111
+24040508,0992,Iron Hands,,euic-2024-iron-hands,,FALSE,cherish,paldea,Quark Drive,Adamant,Marco,240405,50,ITA,2024-04-05,FALSE,Self-redeemed,,Video,HOME,G9[12] R2C3,,001000
+24040601,0992,Iron Hands,,euic-2024-iron-hands,,FALSE,cherish,paldea,Quark Drive,Adamant,Marco,240405,50,ITA,2024-04-06,FALSE,Self-redeemed,,Video,HOME,G9[12] R2C4,,000001
+24040602,0992,Iron Hands,,euic-2024-iron-hands,,FALSE,cherish,paldea,Quark Drive,Adamant,Marco,240405,50,ITA,2024-04-06,FALSE,Self-redeemed,,Video,HOME,G9[12] R2C5,,000010
+24040603,0992,Iron Hands,,euic-2024-iron-hands,,FALSE,cherish,paldea,Quark Drive,Adamant,Marco,240405,50,ITA,2024-04-06,FALSE,Self-redeemed,,Video,HOME,G9[12] R2C6,,000011
+24040604,0992,Iron Hands,,euic-2024-iron-hands,,FALSE,cherish,paldea,Quark Drive,Adamant,Marco,240405,50,ITA,2024-04-06,FALSE,Self-redeemed,,Video,HOME,G9[12] R3C1,,000100
+24040605,0992,Iron Hands,,euic-2024-iron-hands,,FALSE,cherish,paldea,Quark Drive,Adamant,Marco,240405,50,ITA,2024-04-06,FALSE,Self-redeemed,,Video,HOME,G9[12] R3C2,,000101
+24040606,0992,Iron Hands,,euic-2024-iron-hands,,FALSE,cherish,paldea,Quark Drive,Adamant,Marco,240405,50,ITA,2024-04-06,FALSE,Self-redeemed,,Video,HOME,G9[12] R3C3,,000110
+24040607,0992,Iron Hands,,euic-2024-iron-hands,,FALSE,cherish,paldea,Quark Drive,Adamant,Marco,240405,50,ITA,2024-04-06,FALSE,Self-redeemed,,Video,HOME,G9[12] R3C4,,000111
+24040608,0992,Iron Hands,,euic-2024-iron-hands,,FALSE,cherish,paldea,Quark Drive,Adamant,Marco,240405,50,ITA,2024-04-06,FALSE,Self-redeemed,,Video,HOME,G9[12] R3C5,,001000
+24050502,0987,Flutter Mane,,ptc-2024-flutter-mane,,FALSE,cherish,paldea,Protosynthesis,Timid,신여명,240505,50,KOR,2024-05-05,FALSE,Self-redeemed,,Video,HOME,G9[12] R4C1,,000010
+24050503,0987,Flutter Mane,,ptc-2024-flutter-mane,,FALSE,cherish,paldea,Protosynthesis,Timid,신여명,240505,50,KOR,2024-05-05,FALSE,Self-redeemed,,Video,HOME,G9[12] R4C2,,000011
+24050504,0987,Flutter Mane,,ptc-2024-flutter-mane,,FALSE,cherish,paldea,Protosynthesis,Timid,신여명,240505,50,KOR,2024-05-05,FALSE,Self-redeemed,,Video,HOME,G9[12] R4C3,,000100
+24050505,0987,Flutter Mane,,ptc-2024-flutter-mane,,FALSE,cherish,paldea,Protosynthesis,Timid,신여명,240505,50,KOR,2024-05-05,FALSE,Self-redeemed,,Video,HOME,G9[12] R4C4,,000101
+24050506,0987,Flutter Mane,,ptc-2024-flutter-mane,,FALSE,cherish,paldea,Protosynthesis,Timid,신여명,240505,50,KOR,2024-05-05,FALSE,Self-redeemed,,Video,HOME,G9[12] R4C5,,000110
+24050507,0987,Flutter Mane,,ptc-2024-flutter-mane,,FALSE,cherish,paldea,Protosynthesis,Timid,신여명,240505,50,KOR,2024-05-05,FALSE,Self-redeemed,,Video,HOME,G9[12] R4C6,,000111
+24050508,0987,Flutter Mane,,ptc-2024-flutter-mane,,FALSE,cherish,paldea,Protosynthesis,Timid,신여명,240505,50,KOR,2024-05-05,FALSE,Self-redeemed,,Video,HOME,G9[12] R5C1,,001000
+24050509,0987,Flutter Mane,,ptc-2024-flutter-mane,,FALSE,cherish,paldea,Protosynthesis,Timid,신여명,240505,50,KOR,2024-05-05,FALSE,Self-redeemed,,Video,HOME,G9[12] R5C2,,001001
+24050510,0987,Flutter Mane,,ptc-2024-flutter-mane,,FALSE,cherish,paldea,Protosynthesis,Timid,신여명,240505,50,KOR,2024-05-05,FALSE,Self-redeemed,,Video,HOME,G9[12] R5C3,,001010
+24050511,0987,Flutter Mane,,ptc-2024-flutter-mane,,FALSE,cherish,paldea,Protosynthesis,Timid,신여명,240505,50,KOR,2024-05-05,FALSE,Self-redeemed,,Video,HOME,G9[12] R5C4,,001011
+24050512,0987,Flutter Mane,,ptc-2024-flutter-mane,,FALSE,cherish,paldea,Protosynthesis,Timid,신여명,240505,50,KOR,2024-05-05,FALSE,Self-redeemed,,Video,HOME,G9[12] R5C5,,001100
+24050513,0987,Flutter Mane,,ptc-2024-flutter-mane,,FALSE,cherish,paldea,Protosynthesis,Timid,신여명,240505,50,KOR,2024-05-05,FALSE,Self-redeemed,,Video,HOME,G9[12] R5C6,,001101
+24050514,0987,Flutter Mane,,ptc-2024-flutter-mane,,FALSE,cherish,paldea,Protosynthesis,Timid,신여명,240505,50,KOR,2024-05-05,FALSE,Self-redeemed,,Video,HOME,G9[13] R1C1,,001110
+24050515,0987,Flutter Mane,,ptc-2024-flutter-mane,,FALSE,cherish,paldea,Protosynthesis,Timid,신여명,240505,50,KOR,2024-05-05,FALSE,Self-redeemed,,Video,HOME,G9[13] R1C2,,001111
+24050516,0987,Flutter Mane,,ptc-2024-flutter-mane,,FALSE,cherish,paldea,Protosynthesis,Timid,신여명,240505,50,KOR,2024-05-05,FALSE,Self-redeemed,,Video,HOME,G9[13] R1C3,,010000
+24050601,0987,Flutter Mane,,ptc-2024-flutter-mane,,FALSE,cherish,paldea,Protosynthesis,Timid,신여명,240505,50,KOR,2024-05-06,FALSE,Self-redeemed,,Video,HOME,G9[13] R1C4,,000001
+24050602,0987,Flutter Mane,,ptc-2024-flutter-mane,,FALSE,cherish,paldea,Protosynthesis,Timid,신여명,240505,50,KOR,2024-05-06,FALSE,Self-redeemed,,Video,HOME,G9[13] R1C5,,000010
+24050603,0987,Flutter Mane,,ptc-2024-flutter-mane,,FALSE,cherish,paldea,Protosynthesis,Timid,신여명,240505,50,KOR,2024-05-06,FALSE,Self-redeemed,,Video,HOME,G9[13] R1C6,,000011
+24050604,0987,Flutter Mane,,ptc-2024-flutter-mane,,FALSE,cherish,paldea,Protosynthesis,Timid,신여명,240505,50,KOR,2024-05-06,FALSE,Self-redeemed,,Video,HOME,G9[13] R2C1,,000100
+24050605,0987,Flutter Mane,,ptc-2024-flutter-mane,,FALSE,cherish,paldea,Protosynthesis,Timid,신여명,240505,50,KOR,2024-05-06,FALSE,Self-redeemed,,Video,HOME,G9[13] R2C2,,000101
+24050606,0987,Flutter Mane,,ptc-2024-flutter-mane,,FALSE,cherish,paldea,Protosynthesis,Timid,신여명,240505,50,KOR,2024-05-06,FALSE,Self-redeemed,,Video,HOME,G9[13] R2C3,,000110
+24050607,0987,Flutter Mane,,ptc-2024-flutter-mane,,FALSE,cherish,paldea,Protosynthesis,Timid,신여명,240505,50,KOR,2024-05-06,FALSE,Self-redeemed,,Video,HOME,G9[13] R2C4,,000111
+24060102,0663,Talonflame,,pjcs-2024-talonflame,male,FALSE,cherish,paldea,Gale Wings,Adamant,ナーク,240601,50,JPN,2024-06-01,FALSE,Self-redeemed,,Video,HOME,G9[13] R2C6,,000010
+24060103,0663,Talonflame,,pjcs-2024-talonflame,male,FALSE,cherish,paldea,Gale Wings,Adamant,ナーク,240601,50,JPN,2024-06-01,FALSE,Self-redeemed,,Video,HOME,G9[13] R3C1,,000011
+24060104,0663,Talonflame,,pjcs-2024-talonflame,male,FALSE,cherish,paldea,Gale Wings,Adamant,ナーク,240601,50,JPN,2024-06-01,FALSE,Self-redeemed,,Video,HOME,G9[13] R3C2,,000100
+24060105,0663,Talonflame,,pjcs-2024-talonflame,male,FALSE,cherish,paldea,Gale Wings,Adamant,ナーク,240601,50,JPN,2024-06-01,FALSE,Self-redeemed,,Video,HOME,G9[13] R3C3,,000101
+24060106,0663,Talonflame,,pjcs-2024-talonflame,male,FALSE,cherish,paldea,Gale Wings,Adamant,ナーク,240601,50,JPN,2024-06-01,FALSE,Self-redeemed,,Video,HOME,G9[13] R3C4,,000110
+24060107,0663,Talonflame,,pjcs-2024-talonflame,male,FALSE,cherish,paldea,Gale Wings,Adamant,ナーク,240601,50,JPN,2024-06-01,FALSE,Self-redeemed,,Video,HOME,G9[13] R3C5,,000111
+24060108,0663,Talonflame,,pjcs-2024-talonflame,male,FALSE,cherish,paldea,Gale Wings,Adamant,ナーク,240601,50,JPN,2024-06-01,FALSE,Self-redeemed,,Video,HOME,G9[13] R3C6,,001000
+24060109,0663,Talonflame,,pjcs-2024-talonflame,male,FALSE,cherish,paldea,Gale Wings,Adamant,ナーク,240601,50,JPN,2024-06-01,FALSE,Self-redeemed,,Video,HOME,G9[13] R3C6,,001001
+24060110,0663,Talonflame,,pjcs-2024-talonflame,male,FALSE,cherish,paldea,Gale Wings,Adamant,ナーク,240601,50,JPN,2024-06-01,FALSE,Self-redeemed,,Video,HOME,G9[13] R3C6,,001010
+24060111,0663,Talonflame,,pjcs-2024-talonflame,male,FALSE,cherish,paldea,Gale Wings,Adamant,ナーク,240601,50,JPN,2024-06-01,FALSE,Self-redeemed,,Video,HOME,G9[13] R3C6,,001011
+24060112,0663,Talonflame,,pjcs-2024-talonflame,male,FALSE,cherish,paldea,Gale Wings,Adamant,ナーク,240601,50,JPN,2024-06-01,FALSE,Self-redeemed,,Video,HOME,G9[13] R3C6,,001100
+24060113,0663,Talonflame,,pjcs-2024-talonflame,male,FALSE,cherish,paldea,Gale Wings,Adamant,ナーク,240601,50,JPN,2024-06-01,FALSE,Self-redeemed,,Video,HOME,G9[13] R3C6,,001101
+24060114,0663,Talonflame,,pjcs-2024-talonflame,male,FALSE,cherish,paldea,Gale Wings,Adamant,ナーク,240601,50,JPN,2024-06-01,FALSE,Self-redeemed,,Video,HOME,G9[13] R3C6,ITA save,001110
+24060115,0663,Talonflame,,pjcs-2024-talonflame,male,FALSE,cherish,paldea,Gale Wings,Adamant,ナーク,240601,50,JPN,2024-06-01,FALSE,Self-redeemed,,Video,HOME,G9[13] R3C6,ITA save,001111

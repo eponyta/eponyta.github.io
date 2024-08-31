@@ -233,6 +233,14 @@ ID,#,Species,Form,Event,Gender,Shiny,Ball,Origin Mark,Ability,Nature,OT,TID,Leve
 23082815,0978,Tatsugiri,stretchy,wcs-2023-tatsugiri,female,FALSE,cherish,paldea,Commander,Quirky,Worlds23,230811,50,ENG,2023-08-28,FALSE,Self-redeemed,,Video,HOME,G9[8] R1C4,,000001
 23082816,0978,Tatsugiri,stretchy,wcs-2023-tatsugiri,female,FALSE,cherish,paldea,Commander,Serious,Worlds23,230811,50,ENG,2023-08-28,FALSE,Self-redeemed,,Video,HOME,G9[8] R1C5,,000010
 23102304,0975,Cetitan,,glaseado-cetitan,male,FALSE,cherish,paldea,Thick Fat,Serious,Glaseado,230906,50,ENG,2023-10-23,FALSE,Self-redeemed,,Video,HOME,G9[8] R2C3,,000010
+24082801,0975,Cetitan,,glaseado-cetitan,female,FALSE,cherish,paldea,Thick Fat,Bashful,Glaseado,230906,50,ENG,2024-08-28,FALSE,Self-redeemed,,Video,HOME,G9[15] R4C6,,000001
+24082802,0975,Cetitan,,glaseado-cetitan,female,FALSE,cherish,paldea,Slush Rush,Adamant,Glaseado,230906,50,ENG,2024-08-28,FALSE,Self-redeemed,,Video,HOME,G9[15] R5C1,,000010
+24082803,0975,Cetitan,,glaseado-cetitan,male,FALSE,cherish,paldea,Thick Fat,Bashful,Glaseado,230906,50,ENG,2024-08-28,FALSE,Self-redeemed,,Video,HOME,G9[15] R5C2,,000011
+24082804,0975,Cetitan,,glaseado-cetitan,male,FALSE,cherish,paldea,Slush Rush,Naughty,Glaseado,230906,50,ENG,2024-08-28,FALSE,Self-redeemed,,Video,HOME,G9[15] R5C3,,000100
+24082805,0975,Cetitan,,glaseado-cetitan,male,FALSE,cherish,paldea,Slush Rush,Timid,ナッペやま,230906,50,JPN,2024-08-28,FALSE,Self-redeemed,,Video,HOME,G9[15] R5C4,,000101
+24082806,0975,Cetitan,,glaseado-cetitan,female,FALSE,cherish,paldea,Slush Rush,Quiet,ナッペやま,230906,50,JPN,2024-08-28,FALSE,Self-redeemed,,Video,HOME,G9[15] R5C5,,000110
+24082807,0975,Cetitan,,glaseado-cetitan,male,FALSE,cherish,paldea,Slush Rush,Lax,나페산,230906,50,KOR,2024-08-28,FALSE,Self-redeemed,,Video,HOME,G9[15] R5C6,,000111
+24082808,0975,Cetitan,,glaseado-cetitan,male,FALSE,cherish,paldea,Slush Rush,Sassy,나페산,230906,50,KOR,2024-08-28,FALSE,Self-redeemed,,Video,HOME,G9[16] R1C1,,001000
 23102301,0778,Mimikyu,,gamestop-mimikyu,male,FALSE,cherish,paldea,Disguise,Naive,Trixie,231006,25,ENG,2023-10-23,FALSE,Self-redeemed,,Video,HOME,G9[8] R1C6,,000001
 23102303,0778,Mimikyu,,gamestop-mimikyu,male,FALSE,cherish,paldea,Disguise,Naughty,Trixie,231006,25,ENG,2023-10-23,FALSE,Self-redeemed,,Video,HOME,G9[8] R2C2,,000010
 23103102,0778,Mimikyu,,gamestop-mimikyu,male,FALSE,cherish,paldea,Disguise,Mild,Trixie,231006,25,ENG,2023-10-31,FALSE,Self-redeemed,,Video,HOME,G9[8] R2C5,,000010
@@ -359,6 +367,20 @@ ID,#,Species,Form,Event,Gender,Shiny,Ball,Origin Mark,Ability,Nature,OT,TID,Leve
 24050605,0987,Flutter Mane,,ptc-2024-flutter-mane,,FALSE,cherish,paldea,Protosynthesis,Timid,신여명,240505,50,KOR,2024-05-06,FALSE,Self-redeemed,,Video,HOME,G9[13] R2C2,,000101
 24050606,0987,Flutter Mane,,ptc-2024-flutter-mane,,FALSE,cherish,paldea,Protosynthesis,Timid,신여명,240505,50,KOR,2024-05-06,FALSE,Self-redeemed,,Video,HOME,G9[13] R2C3,,000110
 24050607,0987,Flutter Mane,,ptc-2024-flutter-mane,,FALSE,cherish,paldea,Protosynthesis,Timid,신여명,240505,50,KOR,2024-05-06,FALSE,Self-redeemed,,Video,HOME,G9[13] R2C4,,000111
+24062802,0130,Gyarados,,melvin-gyarados,male,FALSE,cherish,paldea,Intimidate,Careful,Sophia,240512,50,ENG,2024-06-28,FALSE,Self-redeemed,,Video,HOME,G9[14] R2C6,,000010
+24062803,0130,Gyarados,,melvin-gyarados,male,FALSE,cherish,paldea,Intimidate,Careful,Sophia,240512,50,ENG,2024-06-28,FALSE,Self-redeemed,,Video,HOME,G9[14] R3C1,,000011
+24062804,0130,Gyarados,,melvin-gyarados,male,FALSE,cherish,paldea,Intimidate,Careful,Sophia,240512,50,ENG,2024-06-28,FALSE,Self-redeemed,,Video,HOME,G9[14] R3C2,,000100
+24062805,0130,Gyarados,,melvin-gyarados,male,FALSE,cherish,paldea,Intimidate,Careful,Sophia,240512,50,ENG,2024-06-28,FALSE,Self-redeemed,,Video,HOME,G9[14] R3C3,,000101
+24062806,0130,Gyarados,,melvin-gyarados,male,FALSE,cherish,paldea,Intimidate,Careful,Sophia,240512,50,ENG,2024-06-28,FALSE,Self-redeemed,,Video,HOME,G9[14] R3C4,,000110
+24062807,0130,Gyarados,,melvin-gyarados,male,FALSE,cherish,paldea,Intimidate,Careful,Sophia,240512,50,ENG,2024-06-28,FALSE,Self-redeemed,,Video,HOME,G9[14] R3C5,,000111
+24062808,0130,Gyarados,,melvin-gyarados,male,FALSE,cherish,paldea,Intimidate,Careful,Sophia,240512,50,ENG,2024-06-28,FALSE,Self-redeemed,,Video,HOME,G9[14] R3C6,,001000
+24062901,0130,Gyarados,,melvin-gyarados,male,FALSE,cherish,paldea,Intimidate,Careful,Sophia,240512,50,ENG,2024-06-29,FALSE,Self-redeemed,,Video,HOME,G9[14] R4C1,,000001
+24062902,0130,Gyarados,,melvin-gyarados,male,FALSE,cherish,paldea,Intimidate,Careful,Sophia,240512,50,ENG,2024-06-29,FALSE,Self-redeemed,,Video,HOME,G9[14] R4C2,,000010
+24062903,0130,Gyarados,,melvin-gyarados,male,FALSE,cherish,paldea,Intimidate,Careful,Sophia,240512,50,ENG,2024-06-29,FALSE,Self-redeemed,,Video,HOME,G9[14] R4C3,,000011
+24062904,0130,Gyarados,,melvin-gyarados,male,FALSE,cherish,paldea,Intimidate,Careful,Sophia,240512,50,ENG,2024-06-29,FALSE,Self-redeemed,,Video,HOME,G9[14] R4C4,,000100
+24062905,0130,Gyarados,,melvin-gyarados,male,FALSE,cherish,paldea,Intimidate,Careful,Sophia,240512,50,ENG,2024-06-29,FALSE,Self-redeemed,,Video,HOME,G9[14] R4C5,,000101
+24062906,0130,Gyarados,,melvin-gyarados,male,FALSE,cherish,paldea,Intimidate,Careful,Sophia,240512,50,ENG,2024-06-29,FALSE,Self-redeemed,,Video,HOME,G9[14] R4C6,,000110
+24062907,0130,Gyarados,,melvin-gyarados,male,FALSE,cherish,paldea,Intimidate,Careful,Sophia,240512,50,ENG,2024-06-29,FALSE,Self-redeemed,,Video,HOME,G9[14] R5C1,,000111
 24060102,0663,Talonflame,,pjcs-2024-talonflame,male,FALSE,cherish,paldea,Gale Wings,Adamant,ナーク,240601,50,JPN,2024-06-01,FALSE,Self-redeemed,,Video,HOME,G9[13] R2C6,,000010
 24060103,0663,Talonflame,,pjcs-2024-talonflame,male,FALSE,cherish,paldea,Gale Wings,Adamant,ナーク,240601,50,JPN,2024-06-01,FALSE,Self-redeemed,,Video,HOME,G9[13] R3C1,,000011
 24060104,0663,Talonflame,,pjcs-2024-talonflame,male,FALSE,cherish,paldea,Gale Wings,Adamant,ナーク,240601,50,JPN,2024-06-01,FALSE,Self-redeemed,,Video,HOME,G9[13] R3C2,,000100
@@ -381,3 +403,35 @@ ID,#,Species,Form,Event,Gender,Shiny,Ball,Origin Mark,Ability,Nature,OT,TID,Leve
 24060121,0663,Talonflame,,pjcs-2024-talonflame,male,FALSE,cherish,paldea,Gale Wings,Adamant,ナーク,240601,50,JPN,2024-06-01,FALSE,Self-redeemed,,Video,HOME,G9[14] R1C1,JPN save,010101
 24060122,0663,Talonflame,,pjcs-2024-talonflame,male,FALSE,cherish,paldea,Gale Wings,Adamant,ナーク,240601,50,JPN,2024-06-01,FALSE,Self-redeemed,,Video,HOME,G9[14] R1C2,KOR save,010110
 24060123,0663,Talonflame,,pjcs-2024-talonflame,male,FALSE,cherish,paldea,Gale Wings,Adamant,ナーク,240601,50,JPN,2024-06-01,FALSE,Self-redeemed,,Video,HOME,G9[14] R1C3,KOR save,010111
+24060702,0233,Porygon2,,naic-2024-porygon2,,FALSE,cherish,paldea,Download,Quiet,Nils,240607,50,ENG,2024-06-07,FALSE,Self-redeemed,,Video,HOME,G9[14] R1C5,,000010
+24060703,0233,Porygon2,,naic-2024-porygon2,,FALSE,cherish,paldea,Download,Quiet,Nils,240607,50,ENG,2024-06-07,FALSE,Self-redeemed,,Video,HOME,G9[14] R1C6,,000011
+24060704,0233,Porygon2,,naic-2024-porygon2,,FALSE,cherish,paldea,Download,Quiet,Nils,240607,50,ENG,2024-06-07,FALSE,Self-redeemed,,Video,HOME,G9[14] R2C1,,000100
+24060705,0233,Porygon2,,naic-2024-porygon2,,FALSE,cherish,paldea,Download,Quiet,Nils,240607,50,ENG,2024-06-07,FALSE,Self-redeemed,,Video,HOME,G9[14] R2C2,,000101
+24060706,0233,Porygon2,,naic-2024-porygon2,,FALSE,cherish,paldea,Download,Quiet,Nils,240607,50,ENG,2024-06-07,FALSE,Self-redeemed,,Video,HOME,G9[14] R2C3,,000110
+24060707,0233,Porygon2,,naic-2024-porygon2,,FALSE,cherish,paldea,Download,Quiet,Nils,240607,50,ENG,2024-06-07,FALSE,Self-redeemed,,Video,HOME,G9[14] R2C4,,000111
+24081702,0700,Sylveon,,wcs-2024-sylveon,male,FALSE,cherish,paldea,Pixelate,Modest,トモヤ,240816,50,JPN,2024-08-17,FALSE,Self-redeemed,,Video,HOME,G9[14] R5C3,,000010
+24081703,0700,Sylveon,,wcs-2024-sylveon,male,FALSE,cherish,paldea,Pixelate,Modest,トモヤ,240816,50,JPN,2024-08-17,FALSE,Self-redeemed,,Video,HOME,G9[14] R5C4,,000011
+24081704,0700,Sylveon,,wcs-2024-sylveon,male,FALSE,cherish,paldea,Pixelate,Modest,トモヤ,240816,50,JPN,2024-08-17,FALSE,Self-redeemed,,Video,HOME,G9[14] R5C5,,000100
+24081705,0700,Sylveon,,wcs-2024-sylveon,male,FALSE,cherish,paldea,Pixelate,Modest,トモヤ,240816,50,JPN,2024-08-17,FALSE,Self-redeemed,,Video,HOME,G9[14] R5C6,,000101
+24081706,0700,Sylveon,,wcs-2024-sylveon,male,FALSE,cherish,paldea,Pixelate,Modest,トモヤ,240816,50,JPN,2024-08-17,FALSE,Self-redeemed,,Video,HOME,G9[15] R1C1,,000110
+24081707,0700,Sylveon,,wcs-2024-sylveon,male,FALSE,cherish,paldea,Pixelate,Modest,トモヤ,240816,50,JPN,2024-08-17,FALSE,Self-redeemed,,Video,HOME,G9[15] R1C2,,000111
+24081708,0700,Sylveon,,wcs-2024-sylveon,male,FALSE,cherish,paldea,Pixelate,Modest,トモヤ,240816,50,JPN,2024-08-17,FALSE,Self-redeemed,,Video,HOME,G9[15] R1C3,,001000
+24081709,0700,Sylveon,,wcs-2024-sylveon,male,FALSE,cherish,paldea,Pixelate,Modest,トモヤ,240816,50,JPN,2024-08-17,FALSE,Self-redeemed,,Video,HOME,G9[15] R1C4,,001001
+24081710,0700,Sylveon,,wcs-2024-sylveon,male,FALSE,cherish,paldea,Pixelate,Modest,トモヤ,240816,50,JPN,2024-08-17,FALSE,Self-redeemed,,Video,HOME,G9[15] R1C5,,001010
+24081711,0700,Sylveon,,wcs-2024-sylveon,male,FALSE,cherish,paldea,Pixelate,Modest,トモヤ,240816,50,JPN,2024-08-17,FALSE,Self-redeemed,,Video,HOME,G9[15] R1C6,,001011
+24081712,0700,Sylveon,,wcs-2024-sylveon,male,FALSE,cherish,paldea,Pixelate,Modest,トモヤ,240816,50,JPN,2024-08-17,FALSE,Self-redeemed,,Video,HOME,G9[15] R2C1,,001100
+24081713,0700,Sylveon,,wcs-2024-sylveon,male,FALSE,cherish,paldea,Pixelate,Modest,トモヤ,240816,50,JPN,2024-08-17,FALSE,Self-redeemed,,Video,HOME,G9[15] R2C2,,001101
+24081714,0700,Sylveon,,wcs-2024-sylveon,male,FALSE,cherish,paldea,Pixelate,Modest,トモヤ,240816,50,JPN,2024-08-17,FALSE,Self-redeemed,,Video,HOME,G9[15] R2C3,,001110
+24081715,0700,Sylveon,,wcs-2024-sylveon,male,FALSE,cherish,paldea,Pixelate,Modest,トモヤ,240816,50,JPN,2024-08-17,FALSE,Self-redeemed,,Video,HOME,G9[15] R2C4,,001111
+24081801,0700,Sylveon,,wcs-2024-sylveon,male,FALSE,cherish,paldea,Pixelate,Modest,トモヤ,240816,50,JPN,2024-08-18,FALSE,Self-redeemed,,Video,HOME,G9[15] R2C5,,000001
+24081802,0700,Sylveon,,wcs-2024-sylveon,male,FALSE,cherish,paldea,Pixelate,Modest,トモヤ,240816,50,JPN,2024-08-18,FALSE,Self-redeemed,,Video,HOME,G9[15] R2C6,,000010
+24081803,0700,Sylveon,,wcs-2024-sylveon,male,FALSE,cherish,paldea,Pixelate,Modest,トモヤ,240816,50,JPN,2024-08-18,FALSE,Self-redeemed,,Video,HOME,G9[15] R3C1,,000011
+24081804,0700,Sylveon,,wcs-2024-sylveon,male,FALSE,cherish,paldea,Pixelate,Modest,トモヤ,240816,50,JPN,2024-08-18,FALSE,Self-redeemed,,Video,HOME,G9[15] R3C2,,000100
+24081805,0700,Sylveon,,wcs-2024-sylveon,male,FALSE,cherish,paldea,Pixelate,Modest,トモヤ,240816,50,JPN,2024-08-18,FALSE,Self-redeemed,,Video,HOME,G9[15] R3C3,,000101
+24081806,0700,Sylveon,,wcs-2024-sylveon,male,FALSE,cherish,paldea,Pixelate,Modest,トモヤ,240816,50,JPN,2024-08-18,FALSE,Self-redeemed,,Video,HOME,G9[15] R3C4,,000110
+24081807,0700,Sylveon,,wcs-2024-sylveon,male,FALSE,cherish,paldea,Pixelate,Modest,トモヤ,240816,50,JPN,2024-08-18,FALSE,Self-redeemed,,Video,HOME,G9[15] R3C5,,000111
+24081808,0700,Sylveon,,wcs-2024-sylveon,male,FALSE,cherish,paldea,Pixelate,Modest,トモヤ,240816,50,JPN,2024-08-18,FALSE,Self-redeemed,,Video,HOME,G9[15] R3C6,,001111
+24082809,0762,Steenee,,wcs-2024-steenee,female,FALSE,cherish,paldea,Leaf Guard,Bashful,WCS24,240816,50,JPN,2024-08-28,FALSE,Self-redeemed,,Video,HOME,G9[15] R4C2,,000001
+24082810,0762,Steenee,,wcs-2024-steenee,female,FALSE,cherish,paldea,Leaf Guard,Quiet,WCS24,240816,50,JPN,2024-08-28,FALSE,Self-redeemed,,Video,HOME,G9[15] R4C3,,000010
+24082811,0762,Steenee,,wcs-2024-steenee,female,FALSE,cherish,paldea,Leaf Guard,Calm,WCS24,240816,50,KOR,2024-08-28,FALSE,Self-redeemed,,Video,HOME,G9[15] R4C4,,000011
+24082812,0762,Steenee,,wcs-2024-steenee,female,FALSE,cherish,paldea,Leaf Guard,Modest,WCS24,240816,50,KOR,2024-08-28,FALSE,Self-redeemed,,Video,HOME,G9[15] R4C5,,000100

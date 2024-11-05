@@ -1,44 +1,44 @@
 ID,#,Species,Form,Event,Gender,Shiny,Ball,Origin Mark,Ability,Nature,OT,TID,Level,Language,Date Met,Touched?,Source,Disclosure,Proof,Location,Box,Notes,Marking
-23022401,0025,Pikachu,,gen9-flychu,female,FALSE,normal,paldea,Static,Impish,Matt,456206,5,ENG,2023-02-24,FALSE,Self-redeemed,,Video,HOME,G9[0] R1C1,,000001
-23021601,0934,Garganacl,,jiseok-garganacl,male,FALSE,cherish,paldea,Purifying Salt,Careful,Jiseok,230217,50,ENG,2023-02-16,FALSE,Self-redeemed,,Video,HOME,G9[0] R3C5,,000001
-24022701,0571,Zoroark,hisui,dlc-hisui-zoroark,male,FALSE,cherish,paldea,Illusion,Calm,Matt,456206,50,ENG,2024-02-27,FALSE,Self-redeemed,,Video,HOME,G9[11] R2C5,,000001
-23040101,0915,Lechonk,,flying-lechonk,male,FALSE,cherish,paldea,Thick Fat,Bashful,Matt,456206,15,ENG,2023-04-01,FALSE,Self-redeemed,,Video,HOME,G9[2] R3C3,,000001
-23041401,0964,Palafin,,gavin-palafin,female,FALSE,cherish,paldea,Zero to Hero,Adamant,Gavin,230414,50,ENG,2023-04-14,FALSE,Self-redeemed,,Video,HOME,G9[1] R1C4,,000001
-23052901,0669,Flabébé,white,bday-flabebe,female,FALSE,cherish,paldea,Flower Veil,Lax,ポケセン,221118,5,JPN,2023-05-29,FALSE,Self-redeemed,,Video,HOME,G9[2] R3C2,,000000
-24012901,0669,Flabébé,orange,bday-flabebe,female,FALSE,cherish,paldea,Flower Veil,Mild,PokéCenter,221118,5,ENG,2024-01-29,FALSE,Self-redeemed,,Video,HOME,G9[11] R1C2,,000001
-24012903,0669,Flabébé,red,bday-flabebe,female,FALSE,cherish,paldea,Flower Veil,Lonely,PokéCenter,221118,5,ENG,2024-01-29,FALSE,Self-redeemed,,Video,HOME,G9[11] R1C4,,000011
-24012906,0669,Flabébé,blue,bday-flabebe,female,FALSE,cherish,paldea,Flower Veil,Calm,PokéCenter,221118,5,ENG,2024-01-29,FALSE,Self-redeemed,,Video,HOME,G9[11] R2C1,,000110
-24012908,0669,Flabébé,yellow,bday-flabebe,female,FALSE,cherish,paldea,Flower Veil,Timid,ポケセン,221118,5,JPN,2024-01-29,FALSE,Self-redeemed,,Video,HOME,G9[11] R2C3,,001000
-23060901,0437,Bronzong,,yasuharu-bronzong,,FALSE,cherish,paldea,Levitate,Relaxed,そらみつ,230610,50,JPN,2023-06-09,FALSE,Self-redeemed,,Video,HOME,G9[1] R4C4,,000001
-23061101,0025,Pikachu,,pikatto-pikachu,male,FALSE,cherish,paldea,Static,Naive,ポケセン,230422,25,JPN,2023-06-11,FALSE,Self-redeemed,,Video,HOME,G9[2] R4C2,,000001
-23073004,0172,Pichu,,michina-pichu,male,TRUE,cherish,paldea,Static,Jolly,미케나,230531,30,KOR,2023-07-30,FALSE,Self-redeemed,,Video,HOME,G9[4] R4C5,Proof has wrong count on note (3 instead of 4). Fixed mid-video,000100
-23061701,0423,Gastrodon,east,ptc-2023-gastrodon,male,FALSE,cherish,paldea,Storm Drain,Bold,정원석,230603,50,KOR,2023-06-17,FALSE,Self-redeemed,,Video,HOME,G9[2] R4C5,,000001
-23063005,0059,Arcanine,,naic-2023-arcanine,female,TRUE,cherish,paldea,Intimidate,Adamant,Paul,230630,50,ENG,2023-06-30,FALSE,Self-redeemed,,Video,HOME,G9[3] R4C6,,000001
-23073019,0006,Charizard,,dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,Matt,456206,50,ENG,2023-07-30,FALSE,Self-redeemed,,Video,HOME,G9[4] R5C4,,000001
-23073011,0861,Grimmsnarl,,chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023-07-30,FALSE,Self-redeemed,,Video,HOME,G9[4] R5C3,,000001
-23080901,0151,Mew,,my-own-mew,,FALSE,normal,paldea,Synchronize,Brave,Matt,456206,5,ENG,2023-08-09,FALSE,Self-redeemed,,Video,HOME,G9[5] R3C1,tera water,000001
-23081001,0423,Gastrodon,east,wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023-08-10,FALSE,Self-redeemed,,Video,HOME,G9[5] R4C3,,000001
-23082701,0978,Tatsugiri,stretchy,wcs-2023-tatsugiri,male,FALSE,cherish,paldea,Commander,Bold,Worlds23,230811,50,ENG,2023-08-27,FALSE,Self-redeemed,,Video,HOME,G9[7] R3C3,,000001
-23102302,0975,Cetitan,,glaseado-cetitan,male,FALSE,cherish,paldea,Thick Fat,Lonely,Glaseado,230906,50,ENG,2023-10-23,FALSE,Self-redeemed,,Video,HOME,G9[8] R2C1,,000001
-23103101,0778,Mimikyu,,gamestop-mimikyu,female,FALSE,cherish,paldea,Disguise,Lax,Trixie,231006,25,ENG,2023-10-31,FALSE,Self-redeemed,,Video,HOME,G9[8] R2C4,,000001
-23121801,0926,Fidough,,kor-popup-fidough,female,FALSE,cherish,paldea,Own Tempo,Naughty,포켓몬스토어,231103,5,KOR,2023-12-18,FALSE,Self-redeemed,,Video,HOME,G9[10] R4C5,,000001
-23111701,0887,Dragapult,,laic-2023-dragapult,male,FALSE,cherish,paldea,Clear Body,Jolly,Alex,231117,50,SP-EU,2023-11-17,FALSE,Self-redeemed,,Video,HOME,G9[8] R3C2,,000001
-23120701,0491,Darkrai,,new-moon-darkrai,,FALSE,cherish,paldea,Bad Dreams,Modest,Matt,456206,50,ENG,2023-12-07,FALSE,Self-redeemed,,Video,HOME,G9[9] R2C1,,000001
-23120704,0448,Lucario,,shiny-buddy-lucario,male,TRUE,cherish,paldea,Inner Focus,Naive,Matt,456206,75,ENG,2023-12-07,FALSE,Self-redeemed,,Video,HOME,G9[9] R2C4,,000001
-24012909,0998,Baxcalibur,,kor-winter-festa-baxcalibur,male,FALSE,cherish,paldea,Thermal Exchange,Impish,윈터페스타,240101,54,KOR,2024-01-29,FALSE,Self-redeemed,,Video,HOME,G9[11] R2C4,,000000
-24021201,1005,Roaring Moon,,corocoro-roaring-moon-iron-valiant,,FALSE,friend,paldea,Protosynthesis,Naughty,コロコロ,5656,75,JPN,2024-02-12,FALSE,Self-redeemed,,Video,HOME,G9[11] R3C1,,000001
-24021205,1006,Iron Valiant,,corocoro-roaring-moon-iron-valiant,,FALSE,friend,paldea,Quark Drive,Naughty,コロコロ,5656,75,JPN,2024-02-12,FALSE,Self-redeemed,,Video,HOME,G9[11] R3C5,,000010
-24031101,0985,Scream Tail,,corocoro-paradox-abc,,FALSE,friend,paldea,Protosynthesis,Quiet,コロコロ,5656,75,JPN,2024-03-11,FALSE,Self-redeemed,,Video,HOME,G9[11] R4C1,,000000
-24031102,0986,Brute Bonnet,,corocoro-paradox-abc,,FALSE,friend,paldea,Protosynthesis,Quirky,コロコロ,5656,75,JPN,2024-03-11,FALSE,Self-redeemed,,Video,HOME,G9[11] R4C2,,000000
-24031103,0987,Flutter Mane,,corocoro-paradox-abc,,FALSE,friend,paldea,Protosynthesis,Jolly,コロコロ,5656,75,JPN,2024-03-11,FALSE,Self-redeemed,,Video,HOME,G9[11] R4C3,,000000
-24031104,0992,Iron Hands,,corocoro-paradox-abc,,FALSE,friend,paldea,Quark Drive,Lax,コロコロ,5656,75,JPN,2024-03-11,FALSE,Self-redeemed,,Video,HOME,G9[11] R4C4,,000000
-24031105,0993,Iron Jugulis,,corocoro-paradox-abc,,FALSE,friend,paldea,Quark Drive,Bashful,コロコロ,5656,75,JPN,2024-03-11,FALSE,Self-redeemed,,Video,HOME,G9[11] R4C5,,000000
-24031106,0995,Iron Thorns,,corocoro-paradox-abc,,FALSE,friend,paldea,Quark Drive,Lonely,コロコロ,5656,75,JPN,2024-03-11,FALSE,Self-redeemed,,Video,HOME,G9[11] R4C6,,000000
-24032801,0143,Snorlax,,kabigon-toissho-snorlax,,FALSE,dream,paldea,Gluttony,Lax,プロカビ,240223,20,JPN,2024-03-28,FALSE,Self-redeemed,,Video,HOME,G9[11] R5C1,,000001
-24040501,0992,Iron Hands,,euic-2024-iron-hands,,FALSE,cherish,paldea,Quark Drive,Adamant,Marco,240405,50,ITA,2024-04-05,FALSE,Self-redeemed,,Video,HOME,G9[12] R1C2,,000001
-24050501,0987,Flutter Mane,,ptc-2024-flutter-mane,,FALSE,cherish,paldea,Protosynthesis,Timid,신여명,240505,50,KOR,2024-05-05,FALSE,Self-redeemed,,Video,HOME,G9[12] R3C6,,000001
-24062801,0130,Gyarados,,melvin-gyarados,male,FALSE,cherish,paldea,Intimidate,Careful,Sophia,240512,50,ENG,2024-06-28,FALSE,Self-redeemed,,Video,HOME,G9[14] R2C5,,000001
-24060101,0663,Talonflame,,pjcs-2024-talonflame,male,FALSE,cherish,paldea,Gale Wings,Adamant,ナーク,240601,50,JPN,2024-06-01,FALSE,Self-redeemed,,Video,HOME,G9[13] R2C5,,000001
-24060701,0233,Porygon2,,naic-2024-porygon2,,FALSE,cherish,paldea,Download,Quiet,Nils,240607,50,ENG,2024-06-07,FALSE,Self-redeemed,,Video,HOME,G9[14] R1C4,,000001
-24081701,0700,Sylveon,,wcs-2024-sylveon,male,FALSE,cherish,paldea,Pixelate,Modest,トモヤ,240816,50,JPN,2024-08-17,FALSE,Self-redeemed,,Video,HOME,G9[14] R5C2,,000001
-24081809,0762,Steenee,,wcs-2024-steenee,female,FALSE,cherish,paldea,Leaf Guard,Sassy,Worlds24,240816,50,ENG,2024-08-18,FALSE,Self-redeemed,,Video,HOME,G9[15] R4C1,,000001
+23022401,0025,Pikachu,,1501-gen9-flychu,female,FALSE,normal,paldea,Static,Impish,Matt,456206,5,ENG,2023-02-24,FALSE,Self-redeemed,,Video,HOME,G9[0] R1C1,,000001
+23021601,0934,Garganacl,,501-jiseok-garganacl,male,FALSE,cherish,paldea,Purifying Salt,Careful,Jiseok,230217,50,ENG,2023-02-16,FALSE,Self-redeemed,,Video,HOME,G9[0] R3C5,,000001
+24022701,0571,Zoroark,hisui,1513-dlc-hisui-zoroark,male,FALSE,cherish,paldea,Illusion,Calm,Matt,456206,50,ENG,2024-02-27,FALSE,Self-redeemed,,Video,HOME,G9[11] R2C5,,000001
+23040101,0915,Lechonk,,502-flying-lechonk,male,FALSE,cherish,paldea,Thick Fat,Bashful,Matt,456206,15,ENG,2023-04-01,FALSE,Self-redeemed,,Video,HOME,G9[2] R3C3,,000001
+23041401,0964,Palafin,,503-gavin-palafin,female,FALSE,cherish,paldea,Zero to Hero,Adamant,Gavin,230414,50,ENG,2023-04-14,FALSE,Self-redeemed,,Video,HOME,G9[1] R1C4,,000001
+23052901,0669,Flabébé,white,1-bday-flabebe,female,FALSE,cherish,paldea,Flower Veil,Lax,ポケセン,221118,5,JPN,2023-05-29,FALSE,Self-redeemed,,Video,HOME,G9[2] R3C2,,000000
+24012901,0669,Flabébé,orange,1-bday-flabebe,female,FALSE,cherish,paldea,Flower Veil,Mild,PokéCenter,221118,5,ENG,2024-01-29,FALSE,Self-redeemed,,Video,HOME,G9[11] R1C2,,000001
+24012903,0669,Flabébé,red,1-bday-flabebe,female,FALSE,cherish,paldea,Flower Veil,Lonely,PokéCenter,221118,5,ENG,2024-01-29,FALSE,Self-redeemed,,Video,HOME,G9[11] R1C4,,000011
+24012906,0669,Flabébé,blue,1-bday-flabebe,female,FALSE,cherish,paldea,Flower Veil,Calm,PokéCenter,221118,5,ENG,2024-01-29,FALSE,Self-redeemed,,Video,HOME,G9[11] R2C1,,000110
+24012908,0669,Flabébé,yellow,1-bday-flabebe,female,FALSE,cherish,paldea,Flower Veil,Timid,ポケセン,221118,5,JPN,2024-01-29,FALSE,Self-redeemed,,Video,HOME,G9[11] R2C3,,001000
+23060901,0437,Bronzong,,28-yasuharu-bronzong,,FALSE,cherish,paldea,Levitate,Relaxed,そらみつ,230610,50,JPN,2023-06-09,FALSE,Self-redeemed,,Video,HOME,G9[1] R4C4,,000001
+23061101,0025,Pikachu,,25-pikatto-pikachu,male,FALSE,cherish,paldea,Static,Naive,ポケセン,230422,25,JPN,2023-06-11,FALSE,Self-redeemed,,Video,HOME,G9[2] R4C2,,000001
+23073004,0172,Pichu,,1002-michina-pichu,male,TRUE,cherish,paldea,Static,Jolly,미케나,230531,30,KOR,2023-07-30,FALSE,Self-redeemed,,Video,HOME,G9[4] R4C5,Proof has wrong count on note (3 instead of 4). Fixed mid-video,000100
+23061701,0423,Gastrodon,east,1005-ptc-2023-gastrodon,male,FALSE,cherish,paldea,Storm Drain,Bold,정원석,230603,50,KOR,2023-06-17,FALSE,Self-redeemed,,Video,HOME,G9[2] R4C5,,000001
+23063005,0059,Arcanine,,504-naic-2023-arcanine,female,TRUE,cherish,paldea,Intimidate,Adamant,Paul,230630,50,ENG,2023-06-30,FALSE,Self-redeemed,,Video,HOME,G9[3] R4C6,,000001
+23073019,0006,Charizard,,1522-dark-tera-charizard,male,FALSE,normal,paldea,Blaze,Adamant,Matt,456206,50,ENG,2023-07-30,FALSE,Self-redeemed,,Video,HOME,G9[4] R5C4,,000001
+23073011,0861,Grimmsnarl,,24-chaiyawat-grimmsnarl,male,TRUE,cherish,paldea,Prankster,Calm,Nontaro,230728,50,ENG,2023-07-30,FALSE,Self-redeemed,,Video,HOME,G9[4] R5C3,,000001
+23080901,0151,Mew,,1521-my-own-mew,,FALSE,normal,paldea,Synchronize,Brave,Matt,456206,5,ENG,2023-08-09,FALSE,Self-redeemed,,Video,HOME,G9[5] R3C1,tera water,000001
+23081001,0423,Gastrodon,east,506-wcs-2023-gastrodon,female,FALSE,cherish,paldea,Storm Drain,Calm,Eduardo,230811,50,ENG,2023-08-10,FALSE,Self-redeemed,,Video,HOME,G9[5] R4C3,,000001
+23082701,0978,Tatsugiri,stretchy,505-wcs-2023-tatsugiri,male,FALSE,cherish,paldea,Commander,Bold,Worlds23,230811,50,ENG,2023-08-27,FALSE,Self-redeemed,,Video,HOME,G9[7] R3C3,,000001
+23102302,0975,Cetitan,,1524-glaseado-cetitan,male,FALSE,cherish,paldea,Thick Fat,Lonely,Glaseado,230906,50,ENG,2023-10-23,FALSE,Self-redeemed,,Video,HOME,G9[8] R2C1,,000001
+23103101,0778,Mimikyu,,507-gamestop-mimikyu,female,FALSE,cherish,paldea,Disguise,Lax,Trixie,231006,25,ENG,2023-10-31,FALSE,Self-redeemed,,Video,HOME,G9[8] R2C4,,000001
+23121801,0926,Fidough,,1006-kor-popup-fidough,female,FALSE,cherish,paldea,Own Tempo,Naughty,포켓몬스토어,231103,5,KOR,2023-12-18,FALSE,Self-redeemed,,Video,HOME,G9[10] R4C5,,000001
+23111701,0887,Dragapult,,508-laic-2023-dragapult,male,FALSE,cherish,paldea,Clear Body,Jolly,Alex,231117,50,SP-EU,2023-11-17,FALSE,Self-redeemed,,Video,HOME,G9[8] R3C2,,000001
+23120701,0491,Darkrai,,1029-new-moon-darkrai,,FALSE,cherish,paldea,Bad Dreams,Modest,Matt,456206,50,ENG,2023-12-07,FALSE,Self-redeemed,,Video,HOME,G9[9] R2C1,,000001
+23120704,0448,Lucario,,1030-shiny-buddy-lucario,male,TRUE,cherish,paldea,Inner Focus,Naive,Matt,456206,75,ENG,2023-12-07,FALSE,Self-redeemed,,Video,HOME,G9[9] R2C4,,000001
+24012909,0998,Baxcalibur,,1007-kor-winter-festa-baxcalibur,male,FALSE,cherish,paldea,Thermal Exchange,Impish,윈터페스타,240101,54,KOR,2024-01-29,FALSE,Self-redeemed,,Video,HOME,G9[11] R2C4,,000000
+24021201,1005,Roaring Moon,,36-corocoro-roaring-moon,,FALSE,friend,paldea,Protosynthesis,Naughty,コロコロ,5656,75,JPN,2024-02-12,FALSE,Self-redeemed,,Video,HOME,G9[11] R3C1,,000001
+24021205,1006,Iron Valiant,,37-corocoro-iron-valiant,,FALSE,friend,paldea,Quark Drive,Naughty,コロコロ,5656,75,JPN,2024-02-12,FALSE,Self-redeemed,,Video,HOME,G9[11] R3C5,,000010
+24031101,0985,Scream Tail,,38-corocoro-scream-tail,,FALSE,friend,paldea,Protosynthesis,Quiet,コロコロ,5656,75,JPN,2024-03-11,FALSE,Self-redeemed,,Video,HOME,G9[11] R4C1,,000000
+24031102,0986,Brute Bonnet,,39-corocoro-brute-bonnet,,FALSE,friend,paldea,Protosynthesis,Quirky,コロコロ,5656,75,JPN,2024-03-11,FALSE,Self-redeemed,,Video,HOME,G9[11] R4C2,,000000
+24031103,0987,Flutter Mane,,40-corocoro-flutter-mane,,FALSE,friend,paldea,Protosynthesis,Jolly,コロコロ,5656,75,JPN,2024-03-11,FALSE,Self-redeemed,,Video,HOME,G9[11] R4C3,,000000
+24031104,0992,Iron Hands,,41-corocoro-iron-hands,,FALSE,friend,paldea,Quark Drive,Lax,コロコロ,5656,75,JPN,2024-03-11,FALSE,Self-redeemed,,Video,HOME,G9[11] R4C4,,000000
+24031105,0993,Iron Jugulis,,42-corocoro-iron-jugulis,,FALSE,friend,paldea,Quark Drive,Bashful,コロコロ,5656,75,JPN,2024-03-11,FALSE,Self-redeemed,,Video,HOME,G9[11] R4C5,,000000
+24031106,0995,Iron Thorns,,43-corocoro-iron-thorns,,FALSE,friend,paldea,Quark Drive,Lonely,コロコロ,5656,75,JPN,2024-03-11,FALSE,Self-redeemed,,Video,HOME,G9[11] R4C6,,000000
+24032801,0143,Snorlax,,48-kabigon-toissho-snorlax,,FALSE,dream,paldea,Gluttony,Lax,プロカビ,240223,20,JPN,2024-03-28,FALSE,Self-redeemed,,Video,HOME,G9[11] R5C1,,000001
+24040501,0992,Iron Hands,,509-euic-2024-iron-hands,,FALSE,cherish,paldea,Quark Drive,Adamant,Marco,240405,50,ITA,2024-04-05,FALSE,Self-redeemed,,Video,HOME,G9[12] R1C2,,000001
+24050501,0987,Flutter Mane,,1008-ptc-2024-flutter-mane,,FALSE,cherish,paldea,Protosynthesis,Timid,신여명,240505,50,KOR,2024-05-05,FALSE,Self-redeemed,,Video,HOME,G9[12] R3C6,,000001
+24062801,0130,Gyarados,,52-melvin-gyarados,male,FALSE,cherish,paldea,Intimidate,Careful,Sophia,240512,50,ENG,2024-06-28,FALSE,Self-redeemed,,Video,HOME,G9[14] R2C5,,000001
+24060101,0663,Talonflame,,49-pjcs-2024-talonflame,male,FALSE,cherish,paldea,Gale Wings,Adamant,ナーク,240601,50,JPN,2024-06-01,FALSE,Self-redeemed,,Video,HOME,G9[13] R2C5,,000001
+24060701,0233,Porygon2,,510-naic-2024-porygon2,,FALSE,cherish,paldea,Download,Quiet,Nils,240607,50,ENG,2024-06-07,FALSE,Self-redeemed,,Video,HOME,G9[14] R1C4,,000001
+24081701,0700,Sylveon,,512-wcs-2024-sylveon,male,FALSE,cherish,paldea,Pixelate,Modest,トモヤ,240816,50,JPN,2024-08-17,FALSE,Self-redeemed,,Video,HOME,G9[14] R5C2,,000001
+24081809,0762,Steenee,,511-wcs-2024-steenee,female,FALSE,cherish,paldea,Leaf Guard,Sassy,Worlds24,240816,50,ENG,2024-08-18,FALSE,Self-redeemed,,Video,HOME,G9[15] R4C1,,000001

@@ -435,3 +435,34 @@ ID,#,Species,Form,Event,Gender,Shiny,Ball,Origin Mark,Ability,Nature,OT,TID,Leve
 24082810,0762,Steenee,,511-wcs-2024-steenee,female,FALSE,cherish,paldea,Leaf Guard,Quiet,WCS24,240816,50,JPN,2024-08-28,FALSE,Self-redeemed,,Video,HOME,G9[15] R4C3,,000010
 24082811,0762,Steenee,,511-wcs-2024-steenee,female,FALSE,cherish,paldea,Leaf Guard,Calm,WCS24,240816,50,KOR,2024-08-28,FALSE,Self-redeemed,,Video,HOME,G9[15] R4C4,,000011
 24082812,0762,Steenee,,511-wcs-2024-steenee,female,FALSE,cherish,paldea,Leaf Guard,Modest,WCS24,240816,50,KOR,2024-08-28,FALSE,Self-redeemed,,Video,HOME,G9[15] R4C5,,000100
+24092902,0133,Eevee,,50-pokedoko-eevee,male,FALSE,normal,paldea,Run Away,Sassy,Matt,441614,10,JPN,2024-09-29,FALSE,Self-redeemed,,Video,HOME,G9[16] R1C3,,000010
+24092903,0906,Sprigatito,,1535-liko-sprigatito,female,FALSE,normal,paldea,Overgrow,Quirky,リコ,230414,5,JPN,2024-09-29,FALSE,Self-redeemed,,Video,HOME,G9[16] R1C4,,000001
+24092904,0906,Sprigatito,,1535-liko-sprigatito,female,FALSE,normal,paldea,Overgrow,Quirky,リコ,230414,5,JPN,2024-09-29,FALSE,Self-redeemed,,Video,HOME,G9[16] R1C5,,000010
+24092905,0906,Sprigatito,,1535-liko-sprigatito,female,FALSE,normal,paldea,Overgrow,Quirky,리코,230414,5,KOR,2024-09-29,FALSE,Self-redeemed,,Video,HOME,G9[16] R1C6,,000011
+24092906,0906,Sprigatito,,1535-liko-sprigatito,female,FALSE,normal,paldea,Overgrow,Quirky,리코,230414,5,KOR,2024-09-29,FALSE,Self-redeemed,,Video,HOME,G9[16] R2C1,,000100
+24092908,0906,Sprigatito,,1535-liko-sprigatito,female,FALSE,normal,paldea,Overgrow,Quirky,Liko,230414,5,ENG,2024-09-29,FALSE,Self-redeemed,,Video,HOME,G9[16] R2C3,,000110
+24092909,0906,Sprigatito,,1535-liko-sprigatito,female,FALSE,normal,paldea,Overgrow,Quirky,Liko,230414,5,ENG,2024-09-29,FALSE,Self-redeemed,,Video,HOME,G9[16] R2C4,,000111
+24093001,0906,Sprigatito,,1535-liko-sprigatito,female,FALSE,normal,paldea,Overgrow,Quirky,Liko,230414,5,ENG,2024-09-30,FALSE,Self-redeemed,,Video,HOME,G9[16] R2C5,,000001
+24093002,0906,Sprigatito,,1535-liko-sprigatito,female,FALSE,normal,paldea,Overgrow,Quirky,Liko,230414,5,ENG,2024-09-30,FALSE,Self-redeemed,,Video,HOME,G9[16] R2C6,,000010
+24093003,0906,Sprigatito,,1535-liko-sprigatito,female,FALSE,normal,paldea,Overgrow,Quirky,Liko,230414,5,ENG,2024-09-30,FALSE,Self-redeemed,,Video,HOME,G9[16] R3C1,,000011
+24093004,0906,Sprigatito,,1535-liko-sprigatito,female,FALSE,normal,paldea,Overgrow,Quirky,Liko,230414,5,ENG,2024-09-30,FALSE,Self-redeemed,,Video,HOME,G9[16] R3C2,,000100
+24093005,0906,Sprigatito,,1535-liko-sprigatito,female,FALSE,normal,paldea,Overgrow,Quirky,Liko,230414,5,ENG,2024-09-30,FALSE,Self-redeemed,,Video,HOME,G9[16] R3C3,,000101
+24093006,0906,Sprigatito,,1535-liko-sprigatito,female,FALSE,normal,paldea,Overgrow,Quirky,Liko,230414,5,ENG,2024-09-30,FALSE,Self-redeemed,,Video,HOME,G9[16] R3C4,,000110
+24093007,0906,Sprigatito,,1535-liko-sprigatito,female,FALSE,normal,paldea,Overgrow,Quirky,Liko,230414,5,ENG,2024-09-30,FALSE,Self-redeemed,,Video,HOME,G9[16] R3C5,,000111
+24093008,0906,Sprigatito,,1535-liko-sprigatito,female,FALSE,normal,paldea,Overgrow,Quirky,Liko,230414,5,ENG,2024-09-30,FALSE,Self-redeemed,,Video,HOME,G9[16] R3C6,,001000
+24093009,0906,Sprigatito,,1535-liko-sprigatito,female,FALSE,normal,paldea,Overgrow,Quirky,Liko,230414,5,ENG,2024-09-30,FALSE,Self-redeemed,,Video,HOME,G9[16] R4C1,,001001
+24103001,0966,Revavroom,,1526-team-star-revavroom,female,FALSE,heal,paldea,Overcoat,Naughty,Team Star,231122,50,ENG,2024-10-30,FALSE,Self-redeemed,,Video,HOME,G9[16] R4C2,,000001
+24103002,0966,Revavroom,,1526-team-star-revavroom,female,FALSE,heal,paldea,Overcoat,Naughty,Team Star,231122,50,ENG,2024-10-30,FALSE,Self-redeemed,,Video,HOME,G9[16] R4C3,,000010
+24103003,0966,Revavroom,,1526-team-star-revavroom,female,FALSE,heal,paldea,Overcoat,Naughty,Team Star,231122,50,ENG,2024-10-30,FALSE,Self-redeemed,,Video,HOME,G9[16] R4C4,,000011
+24103004,0966,Revavroom,,1526-team-star-revavroom,female,FALSE,heal,paldea,Overcoat,Naughty,Team Star,231122,50,ENG,2024-10-30,FALSE,Self-redeemed,,Video,HOME,G9[16] R4C5,,000100
+24103005,0966,Revavroom,,1526-team-star-revavroom,female,FALSE,heal,paldea,Overcoat,Naughty,Team Star,231122,50,ENG,2024-10-30,FALSE,Self-redeemed,,Video,HOME,G9[16] R4C6,,000101
+24103006,0966,Revavroom,,1526-team-star-revavroom,female,FALSE,heal,paldea,Overcoat,Naughty,Team Star,231122,50,ENG,2024-10-30,FALSE,Self-redeemed,,Video,HOME,G9[16] R5C1,,000110
+24103007,0966,Revavroom,,1526-team-star-revavroom,female,FALSE,heal,paldea,Overcoat,Naughty,Team Star,231122,50,ENG,2024-10-30,FALSE,Self-redeemed,,Video,HOME,G9[16] R5C2,,000111
+24103008,0966,Revavroom,,1526-team-star-revavroom,female,FALSE,heal,paldea,Overcoat,Naughty,Team Star,231122,50,ENG,2024-10-30,FALSE,Self-redeemed,,Video,HOME,G9[16] R5C3,,001000
+24112002,0279,Pelipper,,513-laic-2025-pelipper,male,TRUE,cherish,paldea,Drizzle,Modest,Patrick​,241115,50,ENG,2024-11-20,FALSE,Self-redeemed,,Video,HOME,G9[16] R5C5,,000010
+24112003,0279,Pelipper,,513-laic-2025-pelipper,male,TRUE,cherish,paldea,Drizzle,Modest,Patrick​,241115,50,ENG,2024-11-20,FALSE,Self-redeemed,,Video,HOME,G9[16] R5C6,,000011
+24112004,0279,Pelipper,,513-laic-2025-pelipper,male,TRUE,cherish,paldea,Drizzle,Modest,Patrick​,241115,50,ENG,2024-11-20,FALSE,Self-redeemed,,Video,HOME,G9[17] R1C1,,000100
+24112005,0279,Pelipper,,513-laic-2025-pelipper,male,TRUE,cherish,paldea,Drizzle,Modest,Patrick​,241115,50,ENG,2024-11-20,FALSE,Self-redeemed,,Video,HOME,G9[17] R1C2,,000101
+24112006,0279,Pelipper,,513-laic-2025-pelipper,male,TRUE,cherish,paldea,Drizzle,Modest,Patrick​,241115,50,ENG,2024-11-20,FALSE,Self-redeemed,,Video,HOME,G9[17] R1C3,,000110
+24112007,0279,Pelipper,,513-laic-2025-pelipper,male,TRUE,cherish,paldea,Drizzle,Modest,Patrick​,241115,50,ENG,2024-11-20,FALSE,Self-redeemed,,Video,HOME,G9[17] R1C4,,000111
+24112008,0279,Pelipper,,513-laic-2025-pelipper,male,TRUE,cherish,paldea,Drizzle,Modest,Patrick​,241115,50,ENG,2024-11-20,FALSE,Self-redeemed,,Video,HOME,G9[17] R1C5,,001000

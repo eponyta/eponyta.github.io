@@ -9,7 +9,7 @@ ID,#,Species,Form,Event,Gender,Shiny,Ball,Origin Mark,Ability,Nature,OT,TID,Leve
 24012903,0669,Flabébé,red,1-bday-flabebe,female,FALSE,cherish,paldea,Flower Veil,Lonely,PokéCenter,221118,5,ENG,2024-01-29,FALSE,Self-redeemed,,Video,HOME,G9[11] R1C4,,000011
 24012906,0669,Flabébé,blue,1-bday-flabebe,female,FALSE,cherish,paldea,Flower Veil,Calm,PokéCenter,221118,5,ENG,2024-01-29,FALSE,Self-redeemed,,Video,HOME,G9[11] R2C1,,000110
 24012908,0669,Flabébé,yellow,1-bday-flabebe,female,FALSE,cherish,paldea,Flower Veil,Timid,ポケセン,221118,5,JPN,2024-01-29,FALSE,Self-redeemed,,Video,HOME,G9[11] R2C3,,001000
-23060901,0437,Bronzong,,28-yasuharu-bronzong,,FALSE,cherish,paldea,Levitate,Relaxed,そらみつ,230610,50,JPN,2023-06-09,FALSE,Self-redeemed,,Video,HOME,G9[1] R4C4,,000001
+23060901,0437,Bronzong,,28-pjcs-2023-bronzong,,FALSE,cherish,paldea,Levitate,Relaxed,そらみつ,230610,50,JPN,2023-06-09,FALSE,Self-redeemed,,Video,HOME,G9[1] R4C4,,000001
 23061101,0025,Pikachu,,25-pikatto-pikachu,male,FALSE,cherish,paldea,Static,Naive,ポケセン,230422,25,JPN,2023-06-11,FALSE,Self-redeemed,,Video,HOME,G9[2] R4C2,,000001
 23073004,0172,Pichu,,1002-michina-pichu,male,TRUE,cherish,paldea,Static,Jolly,미케나,230531,30,KOR,2023-07-30,FALSE,Self-redeemed,,Video,HOME,G9[4] R4C5,Proof has wrong count on note (3 instead of 4). Fixed mid-video,000100
 23061701,0423,Gastrodon,east,1005-ptc-2023-gastrodon,male,FALSE,cherish,paldea,Storm Drain,Bold,정원석,230603,50,KOR,2023-06-17,FALSE,Self-redeemed,,Video,HOME,G9[2] R4C5,,000001
@@ -22,7 +22,7 @@ ID,#,Species,Form,Event,Gender,Shiny,Ball,Origin Mark,Ability,Nature,OT,TID,Leve
 23102302,0975,Cetitan,,1524-glaseado-cetitan,male,FALSE,cherish,paldea,Thick Fat,Lonely,Glaseado,230906,50,ENG,2023-10-23,FALSE,Self-redeemed,,Video,HOME,G9[8] R2C1,,000001
 23103101,0778,Mimikyu,,507-gamestop-mimikyu,female,FALSE,cherish,paldea,Disguise,Lax,Trixie,231006,25,ENG,2023-10-31,FALSE,Self-redeemed,,Video,HOME,G9[8] R2C4,,000001
 23121801,0926,Fidough,,1006-kor-popup-fidough,female,FALSE,cherish,paldea,Own Tempo,Naughty,포켓몬스토어,231103,5,KOR,2023-12-18,FALSE,Self-redeemed,,Video,HOME,G9[10] R4C5,,000001
-23111701,0887,Dragapult,,508-laic-2023-dragapult,male,FALSE,cherish,paldea,Clear Body,Jolly,Alex,231117,50,SP-EU,2023-11-17,FALSE,Self-redeemed,,Video,HOME,G9[8] R3C2,,000001
+23111701,0887,Dragapult,,508-laic-2024-dragapult,male,FALSE,cherish,paldea,Clear Body,Jolly,Alex,231117,50,SP-EU,2023-11-17,FALSE,Self-redeemed,,Video,HOME,G9[8] R3C2,,000001
 23120701,0491,Darkrai,,1029-new-moon-darkrai,,FALSE,cherish,paldea,Bad Dreams,Modest,Matt,456206,50,ENG,2023-12-07,FALSE,Self-redeemed,,Video,HOME,G9[9] R2C1,,000001
 23120704,0448,Lucario,,1030-shiny-buddy-lucario,male,TRUE,cherish,paldea,Inner Focus,Naive,Matt,456206,75,ENG,2023-12-07,FALSE,Self-redeemed,,Video,HOME,G9[9] R2C4,,000001
 24012909,0998,Baxcalibur,,1007-kor-winter-festa-baxcalibur,male,FALSE,cherish,paldea,Thermal Exchange,Impish,윈터페스타,240101,54,KOR,2024-01-29,FALSE,Self-redeemed,,Video,HOME,G9[11] R2C4,,000000

@@ -451,6 +451,21 @@ ID,#,Species,Form,Event,Gender,Shiny,Ball,Origin Mark,Ability,Nature,OT,TID,Leve
 24093007,0906,Sprigatito,,1535-liko-sprigatito,female,FALSE,normal,paldea,Overgrow,Quirky,Liko,230414,5,ENG,2024-09-30,FALSE,Self-redeemed,,Video,HOME,G9[16] R3C5,,000111
 24093008,0906,Sprigatito,,1535-liko-sprigatito,female,FALSE,normal,paldea,Overgrow,Quirky,Liko,230414,5,ENG,2024-09-30,FALSE,Self-redeemed,,Video,HOME,G9[16] R3C6,,001000
 24093009,0906,Sprigatito,,1535-liko-sprigatito,female,FALSE,normal,paldea,Overgrow,Quirky,Liko,230414,5,ENG,2024-09-30,FALSE,Self-redeemed,,Video,HOME,G9[16] R4C1,,001001
+25012002,0909,Fuecoco,,1537-roy-fuecoco,male,FALSE,normal,paldea,Blaze,Hardy,Roy,230512,5,ENG,2025-01-20,FALSE,Self-redeemed,,Video,HOME,G9[17] R3C3,,000010
+25012003,0909,Fuecoco,,1537-roy-fuecoco,male,FALSE,normal,paldea,Blaze,Hardy,Roy,230512,5,ENG,2025-01-20,FALSE,Self-redeemed,,Video,HOME,G9[17] R3C4,,000011
+25012004,0909,Fuecoco,,1537-roy-fuecoco,male,FALSE,normal,paldea,Blaze,Hardy,Roy,230512,5,ENG,2025-01-20,FALSE,Self-redeemed,,Video,HOME,G9[17] R3C5,,000100
+25012005,0909,Fuecoco,,1537-roy-fuecoco,male,FALSE,normal,paldea,Blaze,Hardy,Roy,230512,5,ENG,2025-01-20,FALSE,Self-redeemed,,Video,HOME,G9[17] R3C6,,000101
+25012006,0909,Fuecoco,,1537-roy-fuecoco,male,FALSE,normal,paldea,Blaze,Hardy,Roy,230512,5,ENG,2025-01-20,FALSE,Self-redeemed,,Video,HOME,G9[17] R4C1,,000110
+25012007,0909,Fuecoco,,1537-roy-fuecoco,male,FALSE,normal,paldea,Blaze,Hardy,Roy,230512,5,ENG,2025-01-20,FALSE,Self-redeemed,,Video,HOME,G9[17] R4C2,,000111
+25012008,0909,Fuecoco,,1537-roy-fuecoco,male,FALSE,normal,paldea,Blaze,Hardy,Roy,230512,5,ENG,2025-01-20,FALSE,Self-redeemed,,Video,HOME,G9[17] R4C3,,001000
+25012009,0909,Fuecoco,,1537-roy-fuecoco,male,FALSE,normal,paldea,Blaze,Hardy,Roy,230512,5,ENG,2025-01-20,FALSE,Self-redeemed,,Video,HOME,G9[17] R4C4,,001001
+25012010,0909,Fuecoco,,1537-roy-fuecoco,male,FALSE,normal,paldea,Blaze,Hardy,Roy,230512,5,ENG,2025-01-20,FALSE,Self-redeemed,,Video,HOME,G9[17] R4C5,,001010
+25012011,0909,Fuecoco,,1537-roy-fuecoco,male,FALSE,normal,paldea,Blaze,Hardy,Roy,230512,5,ENG,2025-01-20,FALSE,Self-redeemed,,Video,HOME,G9[17] R4C6,,001011
+25012012,0909,Fuecoco,,1537-roy-fuecoco,male,FALSE,normal,paldea,Blaze,Hardy,Roy,230512,5,ENG,2025-01-20,FALSE,Self-redeemed,,Video,HOME,G9[17] R5C1,,001100
+25012013,0909,Fuecoco,,1537-roy-fuecoco,male,FALSE,normal,paldea,Blaze,Hardy,ロイ,230512,5,JPN,2025-01-20,FALSE,Self-redeemed,,Video,HOME,G9[17] R5C2,,001101
+25012014,0909,Fuecoco,,1537-roy-fuecoco,male,FALSE,normal,paldea,Blaze,Hardy,ロイ,230512,5,JPN,2025-01-20,FALSE,Self-redeemed,,Video,HOME,G9[17] R5C3,,001110
+25012015,0909,Fuecoco,,1537-roy-fuecoco,male,FALSE,normal,paldea,Blaze,Hardy,로드,230512,5,KOR,2025-01-20,FALSE,Self-redeemed,,Video,HOME,G9[17] R5C4,,001111
+25012016,0909,Fuecoco,,1537-roy-fuecoco,male,FALSE,normal,paldea,Blaze,Hardy,로드,230512,5,KOR,2025-01-20,FALSE,Self-redeemed,,Video,HOME,G9[17] R5C5,,010000
 24103001,0966,Revavroom,,1526-team-star-revavroom,female,FALSE,heal,paldea,Overcoat,Naughty,Team Star,231122,50,ENG,2024-10-30,FALSE,Self-redeemed,,Video,HOME,G9[16] R4C2,,000001
 24103002,0966,Revavroom,,1526-team-star-revavroom,female,FALSE,heal,paldea,Overcoat,Naughty,Team Star,231122,50,ENG,2024-10-30,FALSE,Self-redeemed,,Video,HOME,G9[16] R4C3,,000010
 24103003,0966,Revavroom,,1526-team-star-revavroom,female,FALSE,heal,paldea,Overcoat,Naughty,Team Star,231122,50,ENG,2024-10-30,FALSE,Self-redeemed,,Video,HOME,G9[16] R4C4,,000011
@@ -466,3 +481,11 @@ ID,#,Species,Form,Event,Gender,Shiny,Ball,Origin Mark,Ability,Nature,OT,TID,Leve
 24112006,0279,Pelipper,,513-laic-2025-pelipper,male,TRUE,cherish,paldea,Drizzle,Modest,Patrick​,241115,50,ENG,2024-11-20,FALSE,Self-redeemed,,Video,HOME,G9[17] R1C3,,000110
 24112007,0279,Pelipper,,513-laic-2025-pelipper,male,TRUE,cherish,paldea,Drizzle,Modest,Patrick​,241115,50,ENG,2024-11-20,FALSE,Self-redeemed,,Video,HOME,G9[17] R1C4,,000111
 24112008,0279,Pelipper,,513-laic-2025-pelipper,male,TRUE,cherish,paldea,Drizzle,Modest,Patrick​,241115,50,ENG,2024-11-20,FALSE,Self-redeemed,,Video,HOME,G9[17] R1C5,,001000
+24112201,0279,Pelipper,,513-laic-2025-pelipper,male,TRUE,cherish,paldea,Drizzle,Modest,Patrick​,241115,50,ENG,2024-11-22,FALSE,Self-redeemed,,Video,HOME,G9[17] R1C6,,000001
+24112202,0279,Pelipper,,513-laic-2025-pelipper,male,TRUE,cherish,paldea,Drizzle,Modest,Patrick​,241115,50,ENG,2024-11-22,FALSE,Self-redeemed,,Video,HOME,G9[17] R2C1,,000010
+24112203,0279,Pelipper,,513-laic-2025-pelipper,male,TRUE,cherish,paldea,Drizzle,Modest,Patrick​,241115,50,ENG,2024-11-22,FALSE,Self-redeemed,,Video,HOME,G9[17] R2C2,,000011
+24112204,0279,Pelipper,,513-laic-2025-pelipper,male,TRUE,cherish,paldea,Drizzle,Modest,Patrick​,241115,50,ENG,2024-11-22,FALSE,Self-redeemed,,Video,HOME,G9[17] R2C3,,000100
+24112205,0279,Pelipper,,513-laic-2025-pelipper,male,TRUE,cherish,paldea,Drizzle,Modest,Patrick​,241115,50,ENG,2024-11-22,FALSE,Self-redeemed,,Video,HOME,G9[17] R2C4,,000101
+24112206,0279,Pelipper,,513-laic-2025-pelipper,male,TRUE,cherish,paldea,Drizzle,Modest,Patrick​,241115,50,ENG,2024-11-22,FALSE,Self-redeemed,,Video,HOME,G9[17] R2C5,,000110
+24112207,0279,Pelipper,,513-laic-2025-pelipper,male,TRUE,cherish,paldea,Drizzle,Modest,Patrick​,241115,50,ENG,2024-11-22,FALSE,Self-redeemed,,Video,HOME,G9[17] R2C6,,000111
+24112208,0279,Pelipper,,513-laic-2025-pelipper,male,TRUE,cherish,paldea,Drizzle,Modest,Patrick​,241115,50,ENG,2024-11-22,FALSE,Self-redeemed,,Video,HOME,G9[17] R3C1,,001000
